@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1680 820" width="1680" height="820" font-family="Georgia, 'Times New Roman', serif">
+<rect width="1680" height="820" fill="#13203B"/>
+<defs><pattern id="p" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M18 8 l10 10 l-10 10 l-10 -10z" fill="none" stroke="#22325A"/></pattern></defs><rect width="1680" height="820" fill="url(#p)"/><rect x="24" y="24" width="1632" height="772" fill="none" stroke="#C9A74E" stroke-width="1.2"/><rect x="32" y="32" width="1616" height="756" fill="none" stroke="#C9A74E" stroke-width=".6"/>
+<text x="840.0" y="86" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#F4EBD8" text-anchor="middle" letter-spacing="8">HOTEL</text><text x="840.0" y="118" font-size="18" fill="#C9A74E" text-anchor="middle" letter-spacing="5" font-style="italic">Booking to review</text>
+<line x1="60" y1="215" x2="1620" y2="215" stroke="#C9A74E" stroke-width="1"/><line x1="60" y1="221" x2="1620" y2="221" stroke="#C9A74E" stroke-width="1"/>
+<path d="M190.0 122 l38 38 l-38 38 l-38 -38z" fill="#13203B" stroke="#C9A74E" stroke-width="1.2"/>
+<path d="M-10 0 a7 7 0 1 0 0.1 0 M-3 0 h20 M11 0 v6 M16 0 v5" transform="translate(190.0 160)" fill="none" stroke="#C9A74E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M190.0 210 l8 8 l-8 8 l-8 -8z" fill="#C9A74E"/>
+<text x="190.0" y="256" font-family="Georgia, 'Times New Roman', serif" font-weight="400" font-size="17" fill="#F4EBD8" text-anchor="middle" letter-spacing="3">01  BOOK</text>
+<rect x="79.0" y="286" width="222" height="108" rx="2" fill="#1B2A4C" stroke="#C9A74E" stroke-width="1.2"/>
+<rect x="84.0" y="291" width="212" height="98" fill="none" stroke="#C9A74E" stroke-width=".5"/>
+<text x="95.0" y="318" font-size="15" fill="#C9A74E" letter-spacing="3">W · F · 19</text>
+<text x="287.0" y="318" font-size="14" fill="#B9AE96" text-anchor="end">11 nodes</text>
+<text x="95.0" y="350" font-size="19" fill="#F4EBD8" font-style="italic">Reservation +</text>
+<text x="95.0" y="374" font-size="19" fill="#F4EBD8" font-style="italic">confirm</text>
+<path d="M450.0 122 l38 38 l-38 38 l-38 -38z" fill="#13203B" stroke="#C9A74E" stroke-width="1.2"/>
+<path d="M-16 -7 h32 v22 h-32z M-6 -7 v-6 h12 v6 M-16 3 h32" transform="translate(450.0 160)" fill="none" stroke="#C9A74E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M450.0 210 l8 8 l-8 8 l-8 -8z" fill="#C9A74E"/>
+<text x="450.0" y="256" font-family="Georgia, 'Times New Roman', serif" font-weight="400" font-size="17" fill="#F4EBD8" text-anchor="middle" letter-spacing="3">02  ARRIVAL</text>
+<rect x="339.0" y="286" width="222" height="108" rx="2" fill="#1B2A4C" stroke="#C9A74E" stroke-width="1.2"/>
+<rect x="344.0" y="291" width="212" height="98" fill="none" stroke="#C9A74E" stroke-width=".5"/>
+<text x="355.0" y="318" font-size="15" fill="#C9A74E" letter-spacing="3">W · F · 26</text>
+<text x="547.0" y="318" font-size="14" fill="#B9AE96" text-anchor="end">9 nodes</text>
+<text x="355.0" y="350" font-size="19" fill="#F4EBD8" font-style="italic">Pre-arrival</text>
+<text x="355.0" y="374" font-size="19" fill="#F4EBD8" font-style="italic">messaging</text>
+<path d="M710.0 122 l38 38 l-38 38 l-38 -38z" fill="#13203B" stroke="#C9A74E" stroke-width="1.2"/>
+<path d="M-16 -13 h32 a4 4 0 0 1 4 4 v14 a4 4 0 0 1 -4 4 h-16 l-9 8 v-8 h-7 a4 4 0 0 1 -4 -4 v-14 a4 4 0 0 1 4 -4z M-9 -2 h0.1 M0 -2 h0.1 M9 -2 h0.1" transform="translate(710.0 160)" fill="none" stroke="#C9A74E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M710.0 210 l8 8 l-8 8 l-8 -8z" fill="#C9A74E"/>
+<text x="710.0" y="256" font-family="Georgia, 'Times New Roman', serif" font-weight="400" font-size="17" fill="#F4EBD8" text-anchor="middle" letter-spacing="3">03  STAY</text>
+<rect x="599.0" y="286" width="222" height="108" rx="2" fill="#1B2A4C" stroke="#C9A74E" stroke-width="1.2"/>
+<rect x="604.0" y="291" width="212" height="98" fill="none" stroke="#C9A74E" stroke-width=".5"/>
+<text x="615.0" y="318" font-size="15" fill="#C9A74E" letter-spacing="3">W · F · 28A</text>
+<text x="807.0" y="318" font-size="14" fill="#B9AE96" text-anchor="end">25 nodes</text>
+<text x="615.0" y="350" font-size="19" fill="#F4EBD8" font-style="italic">Unified inbox in</text>
+<line x1="710.0" y1="394" x2="710.0" y2="416" stroke="#B9AE96" stroke-width="2" stroke-dasharray="4 4"/>
+<rect x="599.0" y="416" width="222" height="108" rx="2" fill="#1B2A4C" stroke="#C9A74E" stroke-width="1.2"/>
+<rect x="604.0" y="421" width="212" height="98" fill="none" stroke="#C9A74E" stroke-width=".5"/>
+<text x="615.0" y="448" font-size="15" fill="#C9A74E" letter-spacing="3">W · F · 42</text>
+<text x="807.0" y="448" font-size="14" fill="#B9AE96" text-anchor="end">31 nodes</text>
+<text x="615.0" y="480" font-size="19" fill="#F4EBD8" font-style="italic">AI support agent</text>
+<path d="M970.0 122 l38 38 l-38 38 l-38 -38z" fill="#13203B" stroke="#C9A74E" stroke-width="1.2"/>
+<path d="M-16 7 a16 16 0 0 1 32 0z M-20 11 h40 M0 -9 v-4 M-4 -13 h8" transform="translate(970.0 160)" fill="none" stroke="#C9A74E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M970.0 210 l8 8 l-8 8 l-8 -8z" fill="#C9A74E"/>
+<text x="970.0" y="256" font-family="Georgia, 'Times New Roman', serif" font-weight="400" font-size="17" fill="#F4EBD8" text-anchor="middle" letter-spacing="3">04  HAND-OFF</text>
+<rect x="859.0" y="286" width="222" height="108" rx="2" fill="#1B2A4C" stroke="#C9A74E" stroke-width="1.2"/>
+<rect x="864.0" y="291" width="212" height="98" fill="none" stroke="#C9A74E" stroke-width=".5"/>
+<text x="875.0" y="318" font-size="15" fill="#C9A74E" letter-spacing="3">W · F · 50</text>
+<text x="1067.0" y="318" font-size="14" fill="#B9AE96" text-anchor="end">23 nodes</text>
+<text x="875.0" y="350" font-size="19" fill="#F4EBD8" font-style="italic">Handoff SLA</text>
+<text x="875.0" y="374" font-size="19" fill="#F4EBD8" font-style="italic">watchdog</text>
+<line x1="970.0" y1="394" x2="970.0" y2="416" stroke="#B9AE96" stroke-width="2" stroke-dasharray="4 4"/>
+<rect x="859.0" y="416" width="222" height="108" rx="2" fill="#1B2A4C" stroke="#C9A74E" stroke-width="1.2"/>
+<rect x="864.0" y="421" width="212" height="98" fill="none" stroke="#C9A74E" stroke-width=".5"/>
+<text x="875.0" y="448" font-size="15" fill="#C9A74E" letter-spacing="3">W · F · 28B</text>
+<text x="1067.0" y="448" font-size="14" fill="#B9AE96" text-anchor="end">29 nodes</text>
+<text x="875.0" y="480" font-size="19" fill="#F4EBD8" font-style="italic">Agent replies out</text>
+<line x1="970.0" y1="524" x2="970.0" y2="550" stroke="#E88D72" stroke-width="2"/>
+<path d="M970.0 550 l7 7 l-7 7 l-7 -7z" fill="#E88D72"/><text x="970.0" y="586" font-size="15" fill="#E88D72" text-anchor="middle" letter-spacing="2" font-style="italic">attended by staff</text><text x="970.0" y="606" font-size="15" fill="#E88D72" text-anchor="middle" letter-spacing="2" font-style="italic">staff reply</text>
+<path d="M1230.0 122 l38 38 l-38 38 l-38 -38z" fill="#13203B" stroke="#C9A74E" stroke-width="1.2"/>
+<path d="M-16 8 a16 16 0 0 1 32 0 M0 8 l8 -10 M-16 8 h32" transform="translate(1230.0 160)" fill="none" stroke="#C9A74E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1230.0 210 l8 8 l-8 8 l-8 -8z" fill="#C9A74E"/>
+<text x="1230.0" y="256" font-family="Georgia, 'Times New Roman', serif" font-weight="400" font-size="17" fill="#F4EBD8" text-anchor="middle" letter-spacing="3">05  DEPARTURE</text>
+<rect x="1119.0" y="286" width="222" height="108" rx="2" fill="#1B2A4C" stroke="#C9A74E" stroke-width="1.2"/>
+<rect x="1124.0" y="291" width="212" height="98" fill="none" stroke="#C9A74E" stroke-width=".5"/>
+<text x="1135.0" y="318" font-size="15" fill="#C9A74E" letter-spacing="3">W · F · 36</text>
+<text x="1327.0" y="318" font-size="14" fill="#B9AE96" text-anchor="end">18 nodes</text>
+<text x="1135.0" y="350" font-size="19" fill="#F4EBD8" font-style="italic">NPS / CSAT routing</text>
+<line x1="1230.0" y1="394" x2="1230.0" y2="420" stroke="#E88D72" stroke-width="2"/>
+<path d="M1230.0 420 l7 7 l-7 7 l-7 -7z" fill="#E88D72"/><text x="1230.0" y="456" font-size="15" fill="#E88D72" text-anchor="middle" letter-spacing="2" font-style="italic">attended by staff</text><text x="1230.0" y="476" font-size="15" fill="#E88D72" text-anchor="middle" letter-spacing="2" font-style="italic">detractor</text>
+<path d="M1490.0 122 l38 38 l-38 38 l-38 -38z" fill="#13203B" stroke="#C9A74E" stroke-width="1.2"/>
+<path d="M0.0 -15.0 L4.0 -5.5 L14.3 -4.6 L6.4 2.1 L8.8 12.1 L0.0 6.8 L-8.8 12.1 L-6.4 2.1 L-14.3 -4.6 L-4.0 -5.5z" transform="translate(1490.0 160)" fill="none" stroke="#C9A74E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1490.0 210 l8 8 l-8 8 l-8 -8z" fill="#C9A74E"/>
+<text x="1490.0" y="256" font-family="Georgia, 'Times New Roman', serif" font-weight="400" font-size="17" fill="#F4EBD8" text-anchor="middle" letter-spacing="3">06  REPUTATION</text>
+<rect x="1379.0" y="286" width="222" height="108" rx="2" fill="#1B2A4C" stroke="#C9A74E" stroke-width="1.2"/>
+<rect x="1384.0" y="291" width="212" height="98" fill="none" stroke="#C9A74E" stroke-width=".5"/>
+<text x="1395.0" y="318" font-size="15" fill="#C9A74E" letter-spacing="3">W · F · 29</text>
+<text x="1587.0" y="318" font-size="14" fill="#B9AE96" text-anchor="end">11 nodes</text>
+<text x="1395.0" y="350" font-size="19" fill="#F4EBD8" font-style="italic">Review replies</text>
+<line x1="1490.0" y1="394" x2="1490.0" y2="420" stroke="#E88D72" stroke-width="2"/>
+<path d="M1490.0 420 l7 7 l-7 7 l-7 -7z" fill="#E88D72"/><text x="1490.0" y="456" font-size="15" fill="#E88D72" text-anchor="middle" letter-spacing="2" font-style="italic">attended by staff</text><text x="1490.0" y="476" font-size="15" fill="#E88D72" text-anchor="middle" letter-spacing="2" font-style="italic">negative review</text>
+<rect x="60" y="644" width="1560" height="112" rx="0" fill="#172647" stroke="#C9A74E" stroke-width="1.2"/>
+<text x="82" y="678" font-family="Georgia, 'Times New Roman', serif" font-weight="400" font-size="17" fill="#E9DCBC" letter-spacing="2">SHARED LIBRARY · EVERY WORKFLOW ABOVE SENDS, SCHEDULES AND LOGS THROUGH IT</text>
+<text x="82.0" y="714" font-size="17" fill="#E9DCBC">LIB-01 Resolve contact</text>
+<text x="461.0" y="714" font-size="17" fill="#E9DCBC">LIB-02 Send message</text>
+<text x="840.0" y="714" font-size="17" fill="#E9DCBC">LIB-03 Consent gate</text>
+<text x="1219.0" y="714" font-size="17" fill="#E9DCBC">LIB-04/05 Scheduler</text>
+<text x="82.0" y="742" font-size="17" fill="#E9DCBC">LIB-07 Approval</text>
+<text x="461.0" y="742" font-size="17" fill="#E9DCBC">LIB-08 Audit log</text>
+<text x="840.0" y="742" font-size="17" fill="#E9DCBC">EC 00 Error handler</text>
+<text x="1620" y="782" font-size="15" fill="#B9AE96" text-anchor="end">8 catalog workflows · marked stages are where a person decides</text>
+</svg>

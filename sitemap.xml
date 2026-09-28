@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ilhamsaputra.site/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/photos/portrait2-alpha.webp</image:loc>
+      <image:title>Ilham Saputra</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/n8n-workflows.webp</image:loc>
+      <image:title>AI Customer Service &amp; Social Media Pipeline</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/loan-automation.webp</image:loc>
+      <image:title>Loan Processing Automation</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/ec-case-clinic.svg</image:loc>
+      <image:title>Patient Journey Automation, Aesthetic Clinic</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/ec-case-retail.svg</image:loc>
+      <image:title>Order-to-Cash Automation, Online Shop</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/ec-case-hotel.svg</image:loc>
+      <image:title>Guest Stay Automation, Hotel</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/aiueo.webp</image:loc>
+      <image:title>AIUEO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/excellentchimp.webp</image:loc>
+      <image:title>Excellent Chimp</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/lottascent.webp</image:loc>
+      <image:title>LottaScent</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/excelmalang.webp</image:loc>
+      <image:title>Excel Malang</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/rana.webp</image:loc>
+      <image:title>Rana</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/magdalena-coffee.webp</image:loc>
+      <image:title>Magdalena Coffee</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/jiwakuplus.webp</image:loc>
+      <image:title>JiwakuPlus</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/heating-dashboard.webp</image:loc>
+      <image:title>Heating System Health Assessment</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/sales-analytics.webp</image:loc>
+      <image:title>Analytics and Dashboards</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ilhamsaputra.site/assets/work/menu-insight-tool.webp</image:loc>
+      <image:title>Operations Tooling</image:title>
+    </image:image>
+  </url>
+</urlset>

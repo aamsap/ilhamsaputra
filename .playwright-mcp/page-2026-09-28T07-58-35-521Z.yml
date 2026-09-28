@@ -1,0 +1,544 @@
+- generic [active] [ref=f3e1]:
+  - link "Skip to content" [ref=f3e2] [cursor=pointer]:
+    - /url: "#sheet-01"
+  - banner [ref=f3e3]:
+    - generic [ref=f3e4]:
+      - generic [ref=f3e5]: Drawing
+      - link "Ilham Saputra Aam" [ref=f3e6] [cursor=pointer]:
+        - /url: "#sheet-01"
+    - button "Sheet index" [ref=f3e7] [cursor=pointer]:
+      - generic [aria-hidden] [ref=f3e8]: Sheet
+      - generic [aria-hidden] [ref=f3e9]:
+        - generic [ref=f3e10]: "01"
+        - generic [ref=f3e11]: General arrangement
+    - generic [ref=f3e14]:
+      - generic [aria-hidden] [ref=f3e15]:
+        - generic [ref=f3e16]: Plotted
+        - generic [ref=f3e17]: 0%
+      - generic [ref=f3e19]:
+        - generic [ref=f3e20]: Status
+        - generic [ref=f3e21]: Open to work
+        - generic [aria-hidden] [ref=f3e22]: Sheet size
+        - generic [aria-hidden] [ref=f3e23]: A2
+      - generic [ref=f3e24]:
+        - link "Contact" [ref=f3e25] [cursor=pointer]:
+          - /url: "#sheet-06"
+        - button "Plot style Sheet" [ref=f3e26] [cursor=pointer]:
+          - generic [ref=f3e27]: Plot style
+          - generic [ref=f3e28]: Sheet
+  - main [ref=f3e29]:
+    - region [ref=f3e30]:
+      - generic [ref=f3e31]:
+        - text: Sheet 01
+        - generic [ref=f3e32]: General arrangement
+      - generic [ref=f3e33]:
+        - generic [ref=f3e34]:
+          - heading "Ilham Saputra" [level=1] [ref=f3e35]:
+            - generic [ref=f3e36]: Ilham
+            - generic [ref=f3e37]: Saputra
+          - generic [ref=f3e38]: AI automation · Data analytics · Web development
+          - paragraph [ref=f3e43]: I take the process a business still runs by hand, put AI to work on it, and draw the result so the person who has to act on it can read it without help.
+          - generic [ref=f3e44]:
+            - link "See the work" [ref=f3e45] [cursor=pointer]:
+              - /url: "#sheet-03"
+            - link "Download CV" [ref=f3e48] [cursor=pointer]:
+              - /url: assets/doc/Ilham-Saputra-CV.pdf
+        - figure "Ilham Saputra, the subject of this drawing set." [ref=f3e51]:
+          - img "Ilham Saputra smiling, in a black suit and tie." [ref=f3e52]
+          - generic [ref=f3e53]:
+            - generic [ref=f3e54]: "1"
+            - generic [ref=f3e55]:
+              - text: Up to 15 hours of manual work removed
+              - generic [ref=f3e56]: Per client, per week
+          - generic [ref=f3e57]:
+            - generic [ref=f3e58]: "2"
+            - generic [ref=f3e59]:
+              - text: 5-star rating across every project
+              - generic [ref=f3e60]: Excellent Chimp, data specialist
+          - generic [ref=f3e61]:
+            - generic [ref=f3e62]: "3"
+            - generic [ref=f3e63]:
+              - text: Malang, Indonesia
+              - generic [ref=f3e64]: Works remote, international clients
+    - region [ref=f3e66]:
+      - generic [ref=f3e67]:
+        - text: Sheet 02
+        - generic [ref=f3e68]: Section A-A
+      - generic [ref=f3e69]:
+        - heading "Cut through the middle and you get three practices that are usually three people." [level=2] [ref=f3e70]
+        - generic [ref=f3e71]:
+          - list [ref=f3e72]:
+            - listitem [ref=f3e73]:
+              - heading "AI automation" [level=3] [ref=f3e76]
+              - paragraph [ref=f3e77]: "Agents built for one client’s actual business, not a demo: reading their email, auditing their documents, chasing what is missing. Wired with n8n, Apps Script and Python into the tools they already pay for. Up to 15 hours of manual work removed per week, per client."
+              - generic [ref=f3e78]: A
+            - listitem [ref=f3e79]:
+              - heading "Data analytics" [level=3] [ref=f3e82]
+              - paragraph [ref=f3e83]: Dashboards in Excel, Tableau, Looker Studio and Power BI for HR, sales, health, daily operations and property investment projection. Built so a manager reads the answer, not the spreadsheet.
+              - generic [ref=f3e84]: B
+            - listitem [ref=f3e85]:
+              - heading "Web development" [level=3] [ref=f3e88]
+              - paragraph [ref=f3e89]: Responsive front-ends in JavaScript and CSS, API integration with back-end teams, payment gateways, user analytics, and database schemas tuned for large datasets.
+              - generic [ref=f3e90]: C
+          - generic [aria-hidden]:
+            - generic: A
+            - generic: A
+        - paragraph [ref=f3e91]: The seam is the whole job. A dashboard nobody trusts is a spreadsheet with colours, and an AI agent nobody can audit is a black box with opinions. The work is making the three hold together.
+    - region [ref=f3e92]:
+      - generic [ref=f3e93]:
+        - text: Sheet 03
+        - generic [ref=f3e94]: Assemblies
+      - generic [ref=f3e95]:
+        - heading "Nine assemblies, drawn from delivered work." [level=2] [ref=f3e96]
+        - generic [ref=f3e97]:
+          - generic [ref=f3e98]:
+            - paragraph [ref=f3e99]:
+              - generic [ref=f3e102]: 01–02
+              - generic [ref=f3e103]: AI automation engineering
+            - list "01–02 AI automation engineering" [ref=f3e104]:
+              - listitem [ref=f3e105]:
+                - link "01 AI Customer Service n8n, Claude, escalation routing" [ref=f3e106] [cursor=pointer]:
+                  - /url: "#part-01"
+                  - generic [ref=f3e107]: "01"
+                  - generic [ref=f3e108]: AI Customer Service
+                  - emphasis [ref=f3e109]: n8n, Claude, escalation routing
+              - listitem [ref=f3e110]:
+                - link "02 Loan Processing Automation Email, Drive, document audit" [ref=f3e111] [cursor=pointer]:
+                  - /url: "#part-02"
+                  - generic [ref=f3e112]: "02"
+                  - generic [ref=f3e113]: Loan Processing Automation
+                  - emphasis [ref=f3e114]: Email, Drive, document audit
+          - generic [ref=f3e115]:
+            - paragraph [ref=f3e116]:
+              - generic [ref=f3e119]: 03–06
+              - generic [ref=f3e120]: Web development
+            - list "03–06 Web development" [ref=f3e121]:
+              - listitem [ref=f3e122]:
+                - link "03 AIUEO AI company storefront" [ref=f3e123] [cursor=pointer]:
+                  - /url: "#part-03"
+                  - generic [ref=f3e124]: "03"
+                  - generic [ref=f3e125]: AIUEO
+                  - emphasis [ref=f3e126]: AI company storefront
+              - listitem [ref=f3e127]:
+                - link "04 Excellent Chimp Consultancy agency site" [ref=f3e128] [cursor=pointer]:
+                  - /url: "#part-04"
+                  - generic [ref=f3e129]: "04"
+                  - generic [ref=f3e130]: Excellent Chimp
+                  - emphasis [ref=f3e131]: Consultancy agency site
+              - listitem [ref=f3e132]:
+                - link "05 LottaScent AI fragrance platform" [ref=f3e133] [cursor=pointer]:
+                  - /url: "#part-05"
+                  - generic [ref=f3e134]: "05"
+                  - generic [ref=f3e135]: LottaScent
+                  - emphasis [ref=f3e136]: AI fragrance platform
+              - listitem [ref=f3e137]:
+                - link "06 Excel Malang Course LMS and booking" [ref=f3e138] [cursor=pointer]:
+                  - /url: "#part-06"
+                  - generic [ref=f3e139]: "06"
+                  - generic [ref=f3e140]: Excel Malang
+                  - emphasis [ref=f3e141]: Course LMS and booking
+          - generic [ref=f3e142]:
+            - paragraph [ref=f3e143]:
+              - generic [ref=f3e146]: 07–09
+              - generic [ref=f3e147]: Data analysis
+            - list "07–09 Data analysis" [ref=f3e148]:
+              - listitem [ref=f3e149]:
+                - link "07 Heating System Health Assessment dashboard" [ref=f3e150] [cursor=pointer]:
+                  - /url: "#part-07"
+                  - generic [ref=f3e151]: "07"
+                  - generic [ref=f3e152]: Heating System Health
+                  - emphasis [ref=f3e153]: Assessment dashboard
+              - listitem [ref=f3e154]:
+                - link "08 Analytics & Dashboards HR, sales, health, property" [ref=f3e155] [cursor=pointer]:
+                  - /url: "#part-08"
+                  - generic [ref=f3e156]: "08"
+                  - generic [ref=f3e157]: Analytics & Dashboards
+                  - emphasis [ref=f3e158]: HR, sales, health, property
+              - listitem [ref=f3e159]:
+                - link "09 Operations Tooling Menu, audit, bookkeeping" [ref=f3e160] [cursor=pointer]:
+                  - /url: "#part-09"
+                  - generic [ref=f3e161]: "09"
+                  - generic [ref=f3e162]: Operations Tooling
+                  - emphasis [ref=f3e163]: Menu, audit, bookkeeping
+      - generic [ref=f3e166]:
+        - generic [aria-hidden] [ref=f3e167]:
+          - generic [ref=f3e170]: Assemblies 01–02
+          - generic [ref=f3e171]: AI automation engineering
+          - generic [ref=f3e172]: Agents and workflows wired into the tools a client already pays for.
+        - article [ref=f3e173]:
+          - generic [ref=f3e174]:
+            - generic [ref=f3e175]:
+              - text: "01"
+              - generic [ref=f3e176]: AI automation engineering
+            - heading "AI Customer Service & Social Media Pipeline" [level=3] [ref=f3e177]
+            - paragraph [ref=f3e178]: n8n workflows covering a shift nobody has to work. One reads the client’s history and price list, drafts a reply through Claude, and escalates to a human when the request stops being routine. The other publishes the day’s social posts from a sheet and logs each result back.
+            - generic [ref=f3e179]:
+              - generic [ref=f3e180]: Pipelines built
+              - generic [ref=f3e181]:
+                - generic [ref=f3e182]: Support agent
+                - generic [ref=f3e183]: Escalation routing
+                - generic [ref=f3e184]: Post scheduler
+                - generic [ref=f3e185]: Run logging
+          - figure "Workflow canvas, self-hosted n8n" [ref=f3e186]:
+            - 'img "An n8n editor canvas showing two labelled workflow groups: an automated post thread pipeline in orange, and an AI customer service flow in blue with webhook, routing, reply and escalation nodes." [ref=f3e187]'
+        - article [ref=f3e189]:
+          - generic [ref=f3e190]:
+            - generic [ref=f3e191]:
+              - text: "02"
+              - generic [ref=f3e192]: AI automation engineering
+            - heading "Loan Processing Automation" [level=3] [ref=f3e193]
+            - paragraph [ref=f3e194]: An AI agent that reads incoming email, files evidence into Drive storage, audits applicant documents against a checklist, and chases what is missing on its own. Nobody retypes anything.
+            - generic [ref=f3e195]:
+              - generic [ref=f3e196]: Manual work per file
+              - generic [ref=f3e197]:
+                - generic [ref=f3e198]: Was 100%
+                - generic [ref=f3e199]: Now 25%
+              - generic [ref=f3e200]: "-75%"
+            - generic [ref=f3e201]:
+              - generic [ref=f3e202]: Loans processed
+              - generic [ref=f3e203]:
+                - generic [ref=f3e204]: Was 1.0x
+                - generic [ref=f3e205]: Now 2.0x
+              - generic [ref=f3e206]: +100%
+          - figure "Email status and dispatch panel" [ref=f3e207]:
+            - img "Email status panel listing welcome, disclosure, title order and clear-to-close emails, each with an eligibility state and a send action." [ref=f3e208]
+        - generic [aria-hidden] [ref=f3e210]:
+          - generic [ref=f3e213]: Assemblies 03–06
+          - generic [ref=f3e214]: Web development
+          - generic [ref=f3e215]: Storefronts and platforms, from first screen to enrolled seat.
+        - article [ref=f3e216]:
+          - generic [ref=f3e217]:
+            - generic [ref=f3e218]:
+              - text: "03"
+              - generic [ref=f3e219]: Web development
+            - heading "AIUEO" [level=3] [ref=f3e220]
+            - paragraph [ref=f3e221]: "A dark, typographic storefront for an AI products company. Built as one hub for what used to be scattered across decks and inboxes: what the products do, what the company says, and the material partners actually ask for."
+            - generic [ref=f3e222]:
+              - generic [ref=f3e223]: Built
+              - generic [ref=f3e224]:
+                - generic [ref=f3e225]: Product showcase
+                - generic [ref=f3e226]: Corporate site
+                - generic [ref=f3e227]: Demo hub
+            - link "teraiueo.online" [ref=f3e228] [cursor=pointer]:
+              - /url: https://teraiueo.online
+          - figure "Sector section, dark theme" [ref=f3e232]:
+            - img "AIUEO site section on a near-black ground, with a serif Indonesian headline, a row of industry tags, and three cards describing hours returned per week." [ref=f3e233]
+        - article [ref=f3e235]:
+          - generic [ref=f3e236]:
+            - generic [ref=f3e237]:
+              - text: "04"
+              - generic [ref=f3e238]: Web development
+            - heading "Excellent Chimp" [level=3] [ref=f3e239]
+            - paragraph [ref=f3e240]: The storefront for a technology consultancy. Consultancy, data visualization and automation are three different sells, so each becomes a package a buyer can compare, and the path from landing to first call is kept short.
+            - generic [ref=f3e241]:
+              - generic [ref=f3e242]: Sells
+              - generic [ref=f3e243]:
+                - generic [ref=f3e244]: Consultancy
+                - generic [ref=f3e245]: Data visualization
+                - generic [ref=f3e246]: Automation
+            - link "excellentchimp.com" [ref=f3e247] [cursor=pointer]:
+              - /url: https://excellentchimp.com
+          - figure "Home, agency storefront" [ref=f3e251]:
+            - img "Excellent Chimp home page in white and teal, with the headline Built smart, priced right, a terminal panel showing a build command, and counters for clients served and quote turnaround." [ref=f3e252]
+        - article [ref=f3e254]:
+          - generic [ref=f3e255]:
+            - generic [ref=f3e256]:
+              - text: "05"
+              - generic [ref=f3e257]: Web development
+            - heading "LottaScent" [level=3] [ref=f3e258]
+            - paragraph [ref=f3e259]: "An end-to-end fragrance platform: a two-minute quiz, a catalog, a blog, and an AI assistant that reads the quiz result and recommends from it. Bilingual, light and dark."
+            - generic [ref=f3e260]:
+              - generic [ref=f3e261]: Scope built
+              - generic [ref=f3e262]:
+                - generic [ref=f3e263]: Quiz
+                - generic [ref=f3e264]: Catalog
+                - generic [ref=f3e265]: Blog
+                - generic [ref=f3e266]: AI assistant
+            - link "lottascent.com" [ref=f3e267] [cursor=pointer]:
+              - /url: https://lottascent.com
+          - figure "Home, Indonesian locale" [ref=f3e271]:
+            - img "LottaScent home page in dark plum and gold, with an Indonesian headline and a call to take the fragrance quiz." [ref=f3e272]
+        - article [ref=f3e274]:
+          - generic [ref=f3e275]:
+            - generic [ref=f3e276]:
+              - text: "06"
+              - generic [ref=f3e277]: Web development
+            - heading "Excel Malang" [level=3] [ref=f3e278]
+            - paragraph [ref=f3e279]: A learning platform and booking system for one-on-one and semi-private Excel and data analysis courses in Malang. It holds the syllabus, class material, mentor availability and pricing, then moves a student from browsing to an enrolled seat without a WhatsApp thread in the middle. Otiz the Otter, the mascot, keeps it from looking like homework.
+            - generic [ref=f3e280]:
+              - generic [ref=f3e281]: Runs
+              - generic [ref=f3e282]:
+                - generic [ref=f3e283]: Syllabus
+                - generic [ref=f3e284]: Class material
+                - generic [ref=f3e285]: Booking
+                - generic [ref=f3e286]: Enrolment
+            - link "excelmalang.online" [ref=f3e287] [cursor=pointer]:
+              - /url: https://excelmalang.online
+          - figure "Landing, Indonesian locale" [ref=f3e291]:
+            - img "Excel Malang landing page in navy and yellow, with an Indonesian headline about mastering Excel and a spreadsheet panel demonstrating an IF formula." [ref=f3e292]
+        - generic [aria-hidden] [ref=f3e294]:
+          - generic [ref=f3e297]: Assemblies 07–09
+          - generic [ref=f3e298]: Data analysis
+          - generic [ref=f3e299]: Dashboards and tools that answer the question, not the spreadsheet.
+        - article [ref=f3e300]:
+          - generic [ref=f3e301]:
+            - generic [ref=f3e302]:
+              - text: "07"
+              - generic [ref=f3e303]: Data analysis
+            - heading "Heating System Health Assessment" [level=3] [ref=f3e304]
+            - paragraph [ref=f3e305]: Built for The Dr Radiator. It turns a raw water test into plain readings of quality, protection, balance and overall system health, so a homeowner decides without an engineer translating.
+            - generic [ref=f3e306]:
+              - generic [ref=f3e307]: Measured
+              - generic [ref=f3e308]:
+                - generic [ref=f3e309]: Turbidity
+                - generic [ref=f3e310]: pH
+                - generic [ref=f3e311]: Inhibitor
+                - generic [ref=f3e312]: Overall
+            - link "cleanmyheatingsystem.co.uk" [ref=f3e313] [cursor=pointer]:
+              - /url: https://www.cleanmyheatingsystem.co.uk
+          - figure "Customer result, gauge readout" [ref=f3e317]:
+            - img "Assessment dashboard with customer details, an overall pass score, and three gauge cards for turbidity, pH and inhibitor with recent-result histograms." [ref=f3e318]
+        - article [ref=f3e320]:
+          - generic [ref=f3e321]:
+            - generic [ref=f3e322]:
+              - text: "08"
+              - generic [ref=f3e323]: Data analysis
+            - heading "Analytics & Dashboards" [level=3] [ref=f3e324]
+            - paragraph [ref=f3e325]: Recurring analysis work for HR, management, sales, the health sector, daily operations and property investment projection. Built in whichever tool the client already reports from.
+            - generic [ref=f3e326]:
+              - generic [ref=f3e327]: Manual work removed, per client, per week
+              - generic [ref=f3e328]: up to 15 h
+            - generic [ref=f3e329]:
+              - generic [ref=f3e330]: Reported in
+              - generic [ref=f3e331]:
+                - generic [ref=f3e332]: Excel
+                - generic [ref=f3e333]: Tableau
+                - generic [ref=f3e334]: Looker Studio
+                - generic [ref=f3e335]: Power BI
+          - figure "Sales overview, German locale" [ref=f3e336]:
+            - img "German-language sales dashboard with revenue, profit and margin tiles, a monthly sales line chart, a cost structure area chart and fee distribution pies." [ref=f3e337]
+        - article [ref=f3e339]:
+          - generic [ref=f3e340]:
+            - generic [ref=f3e341]:
+              - text: "09"
+              - generic [ref=f3e342]: Data analysis
+            - heading "Operations Tooling" [level=3] [ref=f3e343]
+            - paragraph [ref=f3e344]: A menu creation tool, a school audit tool, a bookkeeping tool and others, each built inside the spreadsheet the business already lives in rather than beside it.
+            - generic [ref=f3e345]:
+              - generic [ref=f3e346]: Delivered
+              - generic [ref=f3e347]:
+                - generic [ref=f3e348]: Menu costing
+                - generic [ref=f3e349]: School audit
+                - generic [ref=f3e350]: Bookkeeping
+          - figure "Menu insight, dashboard tab" [ref=f3e351]:
+            - img "Menu insight dashboard inside a spreadsheet, with revenue, cost and profit tiles, quarter filters, a revenue and profit chart, and best-selling item rankings." [ref=f3e352]
+    - region [ref=f3e354]:
+      - generic [ref=f3e355]:
+        - text: Sheet 04
+        - generic [ref=f3e356]: Parts list
+      - generic [ref=f3e357]:
+        - heading "Parts list." [level=2] [ref=f3e358]
+        - region "Bill of materials" [ref=f3e359]:
+          - table [ref=f3e360]:
+            - caption [ref=f3e361]: "Bill of materials: the tools used, what each one does, and which practice it belongs to."
+            - rowgroup [ref=f3e362]:
+              - row [ref=f3e363]:
+                - columnheader "Item" [ref=f3e364]
+                - columnheader "Part" [ref=f3e365]
+                - columnheader "Function" [ref=f3e366]
+                - columnheader "Practice" [ref=f3e367]
+            - rowgroup [ref=f3e368]:
+              - row [ref=f3e369]:
+                - cell "01" [ref=f3e370]
+                - rowheader "HTML5" [ref=f3e371]
+                - cell "Document structure, semantics, accessibility" [ref=f3e373]
+                - cell "Web" [ref=f3e374]
+              - row [ref=f3e375]:
+                - cell "02" [ref=f3e376]
+                - rowheader "CSS3" [ref=f3e377]
+                - cell "Layout, motion, scroll-driven animation" [ref=f3e379]
+                - cell "Web" [ref=f3e380]
+              - row [ref=f3e381]:
+                - cell "03" [ref=f3e382]
+                - rowheader "JavaScript" [ref=f3e383]
+                - cell "Behaviour, API integration, client logic" [ref=f3e385]
+                - cell "Web" [ref=f3e386]
+              - row [ref=f3e387]:
+                - cell "04" [ref=f3e388]
+                - rowheader "Tailwind" [ref=f3e389]
+                - cell "Utility styling on client builds" [ref=f3e391]
+                - cell "Web" [ref=f3e392]
+              - row [ref=f3e393]:
+                - cell "05" [ref=f3e394]
+                - rowheader "React" [ref=f3e395]
+                - cell "Component interfaces, interactive dashboards" [ref=f3e397]
+                - cell "Web" [ref=f3e398]
+              - row [ref=f3e399]:
+                - cell "06" [ref=f3e400]
+                - rowheader "AI AI agents & LLM APIs" [ref=f3e401]:
+                  - generic [ref=f3e402]:
+                    - generic [ref=f3e403]: AI
+                    - text: AI agents & LLM APIs
+                - cell "Client-specific agents, data processing, automations brain" [ref=f3e404]
+                - cell "AI & automation" [ref=f3e405]
+              - row [ref=f3e406]:
+                - cell "07" [ref=f3e407]
+                - rowheader "Python" [ref=f3e408]
+                - cell "Automation scripts, data processing" [ref=f3e410]
+                - cell "AI & automation" [ref=f3e411]
+              - row [ref=f3e412]:
+                - cell "08" [ref=f3e413]
+                - rowheader "n8n" [ref=f3e414]
+                - cell "Workflow orchestration across a client’s tools" [ref=f3e416]
+                - cell "AI & automation" [ref=f3e417]
+              - row [ref=f3e418]:
+                - cell "09" [ref=f3e419]
+                - rowheader "Apps Script" [ref=f3e420]
+                - cell "Google Workspace automation, email pipelines" [ref=f3e422]
+                - cell "AI & automation" [ref=f3e423]
+              - row [ref=f3e424]:
+                - cell "10" [ref=f3e425]
+                - rowheader "Excel / VBA" [ref=f3e426]
+                - cell "Macros and tooling inside spreadsheets" [ref=f3e428]
+                - cell "AI & automation" [ref=f3e429]
+              - row [ref=f3e430]:
+                - cell "11" [ref=f3e431]
+                - rowheader "Power BI" [ref=f3e432]
+                - cell "Client-facing reporting surfaces" [ref=f3e434]
+                - cell "Data" [ref=f3e435]
+              - row [ref=f3e436]:
+                - cell "12" [ref=f3e437]
+                - rowheader "BI Tableau · Looker Studio" [ref=f3e438]:
+                  - generic [ref=f3e439]:
+                    - generic [ref=f3e440]: BI
+                    - text: Tableau · Looker Studio
+                - cell "Dashboards clients already report from" [ref=f3e441]
+                - cell "Data" [ref=f3e442]
+              - row [ref=f3e443]:
+                - cell "13" [ref=f3e444]
+                - rowheader "SQL" [ref=f3e445]
+                - cell "Schema design, query tuning on large datasets" [ref=f3e447]
+                - cell "Data" [ref=f3e448]
+              - row [ref=f3e449]:
+                - cell "14" [ref=f3e450]
+                - rowheader "JC Java · C#" [ref=f3e451]:
+                  - generic [ref=f3e452]:
+                    - generic [ref=f3e453]: JC
+                    - text: Java · C#
+                - cell "Point of sale and desktop software" [ref=f3e454]
+                - cell "Software" [ref=f3e455]
+        - complementary [ref=f3e456]:
+          - heading "Also specified" [level=3] [ref=f3e457]
+          - paragraph [ref=f3e458]: "Problem solving and analytical thinking, technical support, and digital literacy training. The last one matters more than it sounds: two years of teaching people who had never used these tools is why the interfaces come out readable."
+    - region [ref=f3e459]:
+      - generic [ref=f3e460]:
+        - text: Sheet 05
+        - generic [ref=f3e461]: Revision history
+      - generic [ref=f3e462]:
+        - heading "Revision history." [level=2] [ref=f3e463]
+        - list [ref=f3e464]:
+          - listitem [ref=f3e465]:
+            - generic [ref=f3e466]: A
+            - generic [ref=f3e467]:
+              - text: Jan 2022
+              - generic [ref=f3e468]: Jul 2023
+            - generic [ref=f3e469]:
+              - heading "Software Programmer" [level=3] [ref=f3e470]
+              - paragraph [ref=f3e471]: Titik Koma Bintang · Luwuk, Indonesia
+              - list [ref=f3e472]:
+                - listitem [ref=f3e473]: Designed and built Point of Sale software for pharmacies and retail shops, covering inventory, billing and sales.
+                - listitem [ref=f3e474]: Wrote and maintained the application in Java and C#, with database schemas and queries tuned for large datasets.
+                - listitem [ref=f3e475]: Shipped real-time inventory updates, automated reports and multi-user access control, then trained clients through deployment.
+          - listitem [ref=f3e476]:
+            - generic [ref=f3e477]: B
+            - generic [ref=f3e478]:
+              - text: Jan 2023
+              - generic [ref=f3e479]: Dec 2024
+            - generic [ref=f3e480]:
+              - heading "Digital Cadre" [level=3] [ref=f3e481]
+              - paragraph [ref=f3e482]: Ministry of Villages, Development of Disadvantaged Regions and Transmigration · Banggai, Indonesia
+              - list [ref=f3e483]:
+                - listitem [ref=f3e484]: Helped local communities reach online public services and administrative platforms.
+                - listitem [ref=f3e485]: Brought small businesses online through e-commerce, digital marketing and payments.
+                - listitem [ref=f3e486]: Rolled out Sistem Informasi Desa (SID) for village governance and information access.
+                - listitem [ref=f3e487]: Ran training on safe internet use, device operation and cybersecurity awareness.
+          - listitem [ref=f3e488]:
+            - generic [ref=f3e489]: C
+            - generic [ref=f3e490]:
+              - text: Jul 2023
+              - generic [ref=f3e491]: Jan 2025
+            - generic [ref=f3e492]:
+              - heading "Frontend Web Developer" [level=3] [ref=f3e493]
+              - paragraph [ref=f3e494]: Titik Koma Bintang · Luwuk, Indonesia
+              - list [ref=f3e495]:
+                - listitem [ref=f3e496]: Built government websites, e-commerce platforms and learning management systems.
+                - listitem [ref=f3e497]: Developed responsive interfaces in JavaScript with React, Vue and SvelteKit, styled with Tailwind CSS to accessibility and performance standards.
+                - listitem [ref=f3e498]: Integrated APIs with the back-end team and tuned performance and SQL queries for scale.
+          - listitem [ref=f3e499]:
+            - generic [ref=f3e500]: D
+            - generic [ref=f3e501]:
+              - text: Jun 2025
+              - generic [ref=f3e502]: Current
+            - generic [ref=f3e503]:
+              - heading "Data Specialist" [level=3] [ref=f3e504]
+              - paragraph [ref=f3e505]: Excellent Chimp · Remote
+              - list [ref=f3e506]:
+                - listitem [ref=f3e507]: Designed custom data visualization dashboards in Excel, Tableau, Looker Studio and Power BI.
+                - listitem [ref=f3e508]: Built AI-driven workflow automation with n8n, Apps Script and Python, removing up to 15 hours of manual work per week per client.
+                - listitem [ref=f3e509]: Translated business needs into technical solutions with documentation clients can actually use.
+                - listitem [ref=f3e510]: Finished every project at a 5-star rating, earning repeat clients and long-term work.
+        - generic [ref=f3e511]:
+          - generic [ref=f3e512]:
+            - heading "Education" [level=3] [ref=f3e513]
+            - paragraph [ref=f3e514]: Bachelor of Informatics Engineering Universitas Dipa Makassar · South Sulawesi, Indonesia 2024, ongoing
+          - generic [ref=f3e515]:
+            - heading "Field work" [level=3] [ref=f3e516]
+            - paragraph [ref=f3e517]: Kelas Inspirasi · Secretary, Facilitator, Inspirator Banggai · Kediri · Malang · Baubau Brings working professionals into schools to talk about what they actually do.
+            - paragraph [ref=f3e518]: Relawan OK · Speaker · Luwuk Online safety, digital ethics and how to respond to cyberbullying, taught to students.
+    - region [ref=f3e519]:
+      - generic [ref=f3e520]:
+        - text: Sheet 06
+        - generic [ref=f3e521]: Title block
+      - generic [ref=f3e522]:
+        - generic [ref=f3e523]:
+          - generic [ref=f3e524]:
+            - generic [ref=f3e525]: Drawing title
+            - heading "Ilham Saputra" [level=2] [ref=f3e526]
+            - paragraph [ref=f3e527]: Called Aam. AI-driven automation, data analytics and web development.
+            - paragraph [ref=f3e528]:
+              - generic [ref=f3e529]: Status
+              - text: Open to work, and taking client projects.
+          - figure [ref=f3e530]:
+            - generic [ref=f3e531]: Approved by
+            - img "Ilham Saputra, arms crossed, in a charcoal suit and navy tie." [ref=f3e532]
+          - generic [ref=f3e533]:
+            - generic [ref=f3e534]: Email
+            - link "ilhamsaputraferdinand@gmail.com" [ref=f3e535] [cursor=pointer]:
+              - /url: mailto:ilhamsaputraferdinand@gmail.com
+            - generic [ref=f3e536]: Telephone
+            - link "+62 851-9080-9668" [ref=f3e537] [cursor=pointer]:
+              - /url: https://wa.me/6285190809668
+            - generic [ref=f3e538]: LinkedIn
+            - link "in/ilham-saputra-aam" [ref=f3e539] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/ilham-saputra-aam
+            - generic [ref=f3e540]: GitHub
+            - link "github.com/aamsap" [ref=f3e541] [cursor=pointer]:
+              - /url: https://github.com/aamsap
+            - generic [ref=f3e542]: Location
+            - generic [ref=f3e543]: Malang, Indonesia · works remote
+          - generic [ref=f3e544]:
+            - paragraph [ref=f3e545]: Bring me the process that still runs by hand.
+            - link "Contact" [ref=f3e546] [cursor=pointer]:
+              - /url: mailto:ilhamsaputraferdinand@gmail.com?subject=Project%20enquiry
+            - link "Download CV" [ref=f3e549] [cursor=pointer]:
+              - /url: assets/doc/Ilham-Saputra-CV.pdf
+          - generic [ref=f3e552]:
+            - generic [ref=f3e553]: Sheet
+            - generic [ref=f3e554]: 06 of 06
+            - generic [ref=f3e555]: Scale
+            - generic [ref=f3e556]: 1:1
+            - generic [ref=f3e557]: Drawn by
+            - generic [ref=f3e558]: Aam
+            - generic [ref=f3e559]: Revision
+            - generic [ref=f3e560]: D
+        - paragraph [ref=f3e561]: Drawn as an engineering sheet set.

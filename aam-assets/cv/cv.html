@@ -1,0 +1,366 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Ilham Saputra (Aam) - Curriculum Vitae</title>
+<meta name="robots" content="noindex">
+<!--
+  SOURCE FILE for assets/doc/Ilham-Saputra-CV.pdf.
+  Self-contained on purpose: it must render identically outside the site.
+  Regenerate the PDF with the printToPDF harness (see README, "The CV").
+  Every fact here traces to PRODUCT.md. WebLuwuk is withdrawn and must not appear.
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..125,400..900&family=Spline+Sans+Mono:wght@400..600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#14181A; --ink-2:#4E5751; --redline:#B32E17; --construction:#8FB8D0;
+    --rule:#C9D6DF; --sheet:#FFFFFF; --panel:#F4F6F2;
+    --f:"Archivo",system-ui,sans-serif; --m:"Spline Sans Mono",ui-monospace,monospace;
+  }
+  @page{ size:A4; margin:0; }
+  *{ box-sizing:border-box; margin:0; }
+  html,body{ background:var(--sheet); }
+  body{
+    font-family:var(--f); color:var(--ink);
+    font-size:9.1pt; line-height:1.44;
+    -webkit-print-color-adjust:exact; print-color-adjust:exact;
+  }
+
+  .sheet{
+    position:relative; width:210mm; height:296.6mm;
+    padding:15mm 14mm 17mm 14mm;
+    overflow:hidden; background:var(--sheet);
+    page-break-after:always; break-after:page;
+  }
+  .sheet:last-child{ page-break-after:auto; break-after:auto; }
+
+  /* drawing border: carries no information */
+  .fr{ position:absolute; inset:7mm; border:.35pt solid var(--construction); pointer-events:none; }
+  .fr i{ position:absolute; background:var(--construction); }
+  .fr .zx{ left:0; right:0; height:2.4mm;
+    background-image:linear-gradient(to right,var(--construction) 0 .35pt,transparent .35pt);
+    background-size:calc(100%/8) 100%; background-repeat:repeat-x; background-color:transparent; }
+  .fr .zy{ top:0; bottom:0; width:2.4mm;
+    background-image:linear-gradient(to bottom,var(--construction) 0 .35pt,transparent .35pt);
+    background-size:100% calc(100%/6); background-repeat:repeat-y; background-color:transparent; }
+  .fr .t{ top:0 } .fr .b{ bottom:0 } .fr .l{ left:0 } .fr .r{ right:0 }
+  .mk{ position:absolute; width:3.6mm; height:3.6mm; border:0 solid var(--construction); }
+  .mk.tl{ top:6.6mm; left:6.6mm; border-top-width:.9pt; border-left-width:.9pt; }
+  .mk.tr{ top:6.6mm; right:6.6mm; border-top-width:.9pt; border-right-width:.9pt; }
+  .mk.bl{ bottom:6.6mm; left:6.6mm; border-bottom-width:.9pt; border-left-width:.9pt; }
+  .mk.br{ bottom:6.6mm; right:6.6mm; border-bottom-width:.9pt; border-right-width:.9pt; }
+
+  .tag{ position:absolute; top:9.4mm; right:14mm;
+    font-family:var(--m); font-size:5.6pt; letter-spacing:.18em; text-transform:uppercase;
+    color:var(--ink-2); padding-bottom:1mm; border-bottom:.35pt solid var(--rule); }
+  .tag b{ font-weight:400 } .tag span{ color:var(--construction); }
+
+  /* title block, bottom of every sheet */
+  .tb{ position:absolute; left:14mm; right:14mm; bottom:8.6mm;
+    border-top:1.3pt solid var(--ink); padding-top:1.6mm;
+    display:flex; gap:6mm; align-items:baseline; justify-content:space-between;
+    font-family:var(--m); font-size:6pt; letter-spacing:.06em; color:var(--ink-2); }
+  .tb b{ color:var(--ink); font-weight:400; }
+  .tb .k{ letter-spacing:.16em; text-transform:uppercase; }
+
+  h1{ font-variation-settings:"wdth" 118,"wght" 800;
+    font-size:31pt; line-height:.92; letter-spacing:-.03em; text-transform:uppercase; }
+  h1 em{ font-style:normal; color:var(--ink-2); font-variation-settings:"wdth" 100,"wght" 500;
+    font-size:14pt; letter-spacing:-.01em; }
+
+  .dimline{ margin:3.4mm 0 0; }
+  .dimline svg{ display:block; width:104mm; height:3mm; overflow:visible; }
+  .dimline svg path{ vector-effect:non-scaling-stroke; }
+  .dimline .l,.dimline .e{ fill:none; stroke-width:.35pt; }
+  .dimline .l{ stroke:var(--ink) } .dimline .e{ stroke:var(--ink-2) }
+  .dimline .a{ fill:var(--ink) }
+  .dimline span{ display:block; margin-top:1.4mm;
+    font-family:var(--m); font-size:6.8pt; letter-spacing:.1em; text-transform:uppercase; }
+
+  .lede{ margin-top:3.6mm; max-width:150mm; color:var(--ink-2); font-size:9.6pt; line-height:1.48; }
+
+  .meta{ margin-top:4.4mm; padding-top:2.2mm; border-top:.35pt solid var(--rule);
+    display:grid; grid-template-columns:repeat(4,1fr); gap:2.6mm 4mm; }
+  .meta .w2{ grid-column:span 2; }
+  .meta div span{ display:block; font-family:var(--m); font-size:5.6pt;
+    letter-spacing:.16em; text-transform:uppercase; color:var(--ink-2); }
+  .meta div a,.meta div p{ font-family:var(--m); font-size:7.2pt; color:var(--ink);
+    text-decoration:none; word-break:break-word; }
+  .status{ display:inline-block; font-family:var(--m); font-size:7.2pt;
+    border-bottom:1.3pt solid var(--ink); padding-bottom:.5mm; }
+
+  h2{ margin-top:7mm; padding-bottom:1.4mm; border-bottom:1.3pt solid var(--ink);
+    font-family:var(--m); font-weight:400; font-size:6.4pt;
+    letter-spacing:.2em; text-transform:uppercase; color:var(--ink-2);
+    display:flex; justify-content:space-between; align-items:baseline; }
+  h2 b{ color:var(--ink); font-weight:400; }
+
+  .row{ display:grid; grid-template-columns:7mm 26mm 1fr; gap:0 4mm;
+    padding:2.8mm 0; border-bottom:.35pt solid var(--rule);
+    break-inside:avoid; page-break-inside:avoid; }
+  .row .rev{ font-family:var(--m); font-size:10pt; color:var(--ink-2); line-height:1; }
+  .row.now .rev{ color:var(--ink); font-weight:600; }
+  .row .when{ font-family:var(--m); font-size:6.6pt; color:var(--ink-2); line-height:1.5; }
+  .row .when i{ display:block; font-style:normal; }
+  .row.now .when i{ color:var(--ink); }
+  .row h3{ font-variation-settings:"wdth" 106,"wght" 700; font-size:11pt;
+    line-height:1.1; letter-spacing:-.015em; }
+  .row .org{ font-family:var(--m); font-size:6.8pt; color:var(--ink-2); margin:.8mm 0 1.6mm; }
+  .row ul{ margin:0; padding-left:3.6mm; }
+  .row li{ color:var(--ink-2); margin-bottom:.5mm; }
+  .row li::marker{ color:var(--construction); }
+
+  .work{ display:grid; grid-template-columns:1fr 1fr; gap:0 7mm; }
+  .work article{ padding:2.4mm 0; border-bottom:.35pt solid var(--rule);
+    break-inside:avoid; page-break-inside:avoid; }
+  .work .no{ font-family:var(--m); font-size:6pt; letter-spacing:.16em; color:var(--ink-2); }
+  .work h3{ font-variation-settings:"wdth" 104,"wght" 680; font-size:9.4pt;
+    line-height:1.15; letter-spacing:-.01em; margin:.5mm 0 .8mm; }
+  .work p{ color:var(--ink-2); font-size:8.3pt; line-height:1.4; }
+  .work .fig{ display:inline-block; margin-top:1mm; font-family:var(--m); font-size:7pt;
+    color:var(--redline); border-top:1.3pt solid var(--redline); padding-top:.6mm; }
+  .work .url{ display:block; margin-top:1mm; font-family:var(--m); font-size:6.6pt;
+    color:var(--ink); text-decoration:none; border-bottom:.35pt solid var(--ink-2);
+    width:max-content; max-width:100%; }
+
+  .bom{ width:100%; border-collapse:collapse; }
+  .bom th,.bom td{ text-align:left; font-weight:400; vertical-align:baseline;
+    padding:2.1mm 4mm 2.1mm 0; border-bottom:.35pt solid var(--rule); }
+  .bom .prac{ font-family:var(--m); font-size:6.2pt; letter-spacing:.14em;
+    text-transform:uppercase; color:var(--ink); white-space:nowrap;
+    border-left:1.3pt solid var(--ink-2); padding-left:2mm; width:1%; }
+  .bom .items{ color:var(--ink-2); }
+
+  .two{ display:grid; grid-template-columns:1fr 1fr; gap:6mm; margin-top:3mm; }
+  .cell{ background:var(--panel); border:.35pt solid var(--rule); padding:3.4mm; break-inside:avoid; }
+  .cell h3{ font-family:var(--m); font-weight:400; font-size:6pt; letter-spacing:.18em;
+    text-transform:uppercase; color:var(--ink-2);
+    padding-bottom:1.2mm; margin-bottom:2mm; border-bottom:.35pt solid var(--rule); }
+  .close{ margin-top:8mm; padding-top:3mm; border-top:1.3pt solid var(--ink); }
+  .close p{ font-variation-settings:"wdth" 100,"wght" 560;
+    font-size:14pt; line-height:1.24; letter-spacing:-.015em; max-width:140mm; }
+  .close a{ display:inline-block; margin-top:2.6mm; font-family:var(--m); font-size:7.4pt;
+    letter-spacing:.06em; color:var(--redline); text-decoration:none;
+    border-bottom:1.3pt solid var(--redline); padding-bottom:.6mm; }
+  .cell p{ font-size:8.6pt; }
+  .cell p+p{ margin-top:2.2mm; }
+  .cell .sub{ color:var(--ink-2); }
+</style>
+</head>
+<body>
+
+<!-- ══════════════════ SHEET 1 ══════════════════ -->
+<section class="sheet">
+  <div class="fr"><i class="zx t"></i><i class="zx b"></i><i class="zy l"></i><i class="zy r"></i></div>
+  <span class="mk tl"></span><span class="mk tr"></span><span class="mk bl"></span><span class="mk br"></span>
+  <div class="tag"><b>Sheet 01</b> <span>General arrangement</span></div>
+
+  <h1>Ilham Saputra <em>(Aam)</em></h1>
+
+  <div class="dimline">
+    <svg viewBox="0 0 600 12" preserveAspectRatio="none" aria-hidden="true">
+      <path class="e" d="M1 0 V12"/><path class="e" d="M599 0 V12"/>
+      <path class="l" d="M1 6 H599"/>
+      <path class="a" d="M1 6 l14 -4 v8 z"/><path class="a" d="M599 6 l-14 -4 v8 z"/>
+    </svg>
+    <span>AI automation &middot; Data analytics &middot; Web development</span>
+  </div>
+
+  <p class="lede">I take the process a business still runs by hand, put AI to work on it, and draw
+  the result so the person who has to act on it can read it without help. Three practices that are
+  usually three different people, and the seam between them is the actual work.</p>
+
+  <div class="meta">
+    <div class="w2"><span>Email</span><a href="mailto:ilhamsaputraferdinand@gmail.com">ilhamsaputraferdinand@gmail.com</a></div>
+    <div><span>Telephone</span><a href="https://wa.me/6285190809668">+62 851-9080-9668</a></div>
+    <div><span>LinkedIn</span><a href="https://www.linkedin.com/in/ilham-saputra-aam">in/ilham-saputra-aam</a></div>
+    <div><span>Portfolio</span><a href="https://ilhamsaputra.site">ilhamsaputra.site</a></div>
+    <div><span>Location</span><p>Malang, Indonesia<br>Works remote</p></div>
+    <div class="w2"><span>Status</span><p class="status">Open to work, and taking client projects</p></div>
+  </div>
+
+  <h2><b>Revision history</b> <span>Experience</span></h2>
+
+  <div class="row now">
+    <span class="rev">C</span>
+    <span class="when">Jan 2025<i>Current</i></span>
+    <div>
+      <h3>Data Specialist</h3>
+      <p class="org">Excellent Chimp &middot; Remote</p>
+      <ul>
+        <li>Designed custom data visualization dashboards in Excel, Tableau, Looker Studio and Power BI.</li>
+        <li>Built AI-driven workflow automation with n8n, Apps Script and Python, removing up to 15 hours of manual work per week, per client.</li>
+        <li>Translated business needs into technical solutions with documentation clients can actually use.</li>
+        <li>Finished every project at a 5-star rating, earning repeat clients and long-term work.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <span class="rev">B</span>
+    <span class="when">Jan 2023<i>Dec 2024</i></span>
+    <div>
+      <h3>Digital Cadre</h3>
+      <p class="org">Ministry of Villages, Development of Disadvantaged Regions and Transmigration &middot; Banggai, Indonesia</p>
+      <ul>
+        <li>Helped local communities reach online public services and administrative platforms.</li>
+        <li>Brought small businesses online through e-commerce, digital marketing and payment systems.</li>
+        <li>Rolled out Sistem Informasi Desa (SID) for village governance and information access.</li>
+        <li>Ran training on safe internet use, device operation and cybersecurity awareness.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <span class="rev">A</span>
+    <span class="when">Jan 2022<i>Jan 2025</i></span>
+    <div>
+      <h3>Web Developer</h3>
+      <p class="org">Titik Koma Bintang &middot; Luwuk, Indonesia</p>
+      <ul>
+        <li>Built and maintained responsive front-end interfaces in JavaScript, CSS and frameworks.</li>
+        <li>Integrated APIs with the back-end team for clean server-to-client data flow.</li>
+        <li>Shipped client-specific features: interactive dashboards, payment gateways, user analytics.</li>
+        <li>Designed and optimised database schemas and queries for large datasets.</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2><b>Education</b> <span>Volunteering and leadership</span></h2>
+  <div class="two">
+    <section class="cell">
+      <p><b>Bachelor of Informatics Engineering</b><br>
+      Universitas Dipa Makassar &middot; South Sulawesi, Indonesia<br>
+      <span class="sub">2024, ongoing</span></p>
+    </section>
+    <section class="cell">
+      <p><b>Kelas Inspirasi</b> &middot; Secretary, Facilitator, Inspirator<br>
+      <span class="sub">Banggai &middot; Kediri &middot; Malang &middot; Baubau. Brings working professionals into schools to talk about what they actually do.</span></p>
+      <p><b>Relawan OK</b> &middot; Speaker &middot; Luwuk<br>
+      <span class="sub">Online safety, digital ethics and responding to cyberbullying, taught to students.</span></p>
+    </section>
+  </div>
+
+  <div class="tb">
+    <span><span class="k">Drawing</span> <b>Ilham Saputra (Aam)</b></span>
+    <span><span class="k">Scale</span> <b>1:1</b></span>
+    <span><span class="k">Drawn by</span> <b>Aam</b></span>
+    <span><span class="k">Revision</span> <b>C</b></span>
+    <span><span class="k">Sheet</span> <b>01 of 02</b></span>
+  </div>
+</section>
+
+<!-- ══════════════════ SHEET 2 ══════════════════ -->
+<section class="sheet">
+  <div class="fr"><i class="zx t"></i><i class="zx b"></i><i class="zy l"></i><i class="zy r"></i></div>
+  <span class="mk tl"></span><span class="mk tr"></span><span class="mk bl"></span><span class="mk br"></span>
+  <div class="tag"><b>Sheet 02</b> <span>Assemblies and parts list</span></div>
+
+  <h2 style="margin-top:2mm"><b>Assemblies</b> <span>Delivered work</span></h2>
+
+  <div class="work">
+    <article>
+      <span class="no">01</span>
+      <h3>AI Customer Service &amp; Social Media Pipeline</h3>
+      <p>Two self-hosted n8n workflows. A webhook-triggered agent reads session history and a price
+      list, drafts a reply through Claude, and escalates to a human when a request stops being
+      routine. A second pipeline publishes the day&rsquo;s social posts from a sheet and logs each result back.</p>
+    </article>
+    <article>
+      <span class="no">02</span>
+      <h3>Loan Processing Automation</h3>
+      <p>An AI agent that reads incoming email, files evidence into Drive storage, audits applicant
+      documents against a checklist, and chases what is missing on its own.</p>
+      <span class="fig">Manual work per file -75% &middot; Loans processed +100%</span>
+    </article>
+    <article>
+      <span class="no">03</span>
+      <h3>AIUEO</h3>
+      <p>Corporate storefront for an AI products company. Product showcase, corporate messaging and
+      a demonstration hub in one minimalist dark interface.</p>
+      <a class="url" href="https://teraiueo.online">teraiueo.online</a>
+    </article>
+    <article>
+      <span class="no">04</span>
+      <h3>Excellent Chimp</h3>
+      <p>Agency storefront for a technology consultancy. Consultancy, data visualization and
+      automation presented as service packages a buyer can compare, built for B2B service selling.</p>
+      <a class="url" href="https://excellentchimp.com">excellentchimp.com</a>
+    </article>
+    <article>
+      <span class="no">05</span>
+      <h3>LottaScent</h3>
+      <p>End-to-end AI fragrance platform: a two-minute quiz, a catalog, a blog, and an AI assistant
+      that reads the quiz result and recommends from it. Bilingual, light and dark.</p>
+      <a class="url" href="https://lottascent.com">lottascent.com</a>
+    </article>
+    <article>
+      <span class="no">06</span>
+      <h3>Excel Malang</h3>
+      <p>Learning platform and booking system for one-on-one and semi-private Excel and data analysis
+      courses. Holds syllabus, class material, mentor availability, pricing and enrolment.</p>
+      <a class="url" href="https://excelmalang.online">excelmalang.online</a>
+    </article>
+    <article>
+      <span class="no">07</span>
+      <h3>Heating System Health Assessment</h3>
+      <p>Built for The Dr Radiator. Turns a raw water test into plain readings of quality, protection,
+      balance and overall system health, so a homeowner decides without an engineer translating.</p>
+      <a class="url" href="https://www.cleanmyheatingsystem.co.uk">cleanmyheatingsystem.co.uk</a>
+    </article>
+    <article>
+      <span class="no">08</span>
+      <h3>Analytics &amp; Dashboards</h3>
+      <p>Recurring analysis for HR, management, sales, the health sector, daily operations and
+      property investment projection, in whichever tool the client already reports from.</p>
+      <span class="fig">Up to 15 h of manual work removed, per client, per week</span>
+    </article>
+    <article style="grid-column:1 / -1">
+      <span class="no">09</span>
+      <h3>Operations Tooling</h3>
+      <p>A menu creation tool, a school audit tool and a bookkeeping tool, each built inside the
+      spreadsheet the business already lives in rather than beside it.</p>
+    </article>
+  </div>
+
+  <h2><b>Parts list</b> <span>Tools</span></h2>
+  <table class="bom">
+    <tbody>
+      <tr>
+        <td class="prac">AI &amp; automation</td>
+        <td class="items">AI agents and LLM APIs (Claude) &middot; n8n &middot; Google Apps Script &middot; Python &middot; Excel and VBA</td>
+      </tr>
+      <tr>
+        <td class="prac">Data</td>
+        <td class="items">Power BI &middot; Tableau &middot; Looker Studio &middot; Excel &middot; SQL, including schema design and query tuning</td>
+      </tr>
+      <tr>
+        <td class="prac">Web</td>
+        <td class="items">HTML &middot; CSS &middot; JavaScript &middot; Tailwind &middot; React &middot; API integration &middot; payment gateways</td>
+      </tr>
+      <tr>
+        <td class="prac">Also specified</td>
+        <td class="items">Problem solving &middot; analytical thinking &middot; technical support &middot; digital literacy training &middot; English and Indonesian</td>
+      </tr>
+    </tbody>
+  </table>
+
+
+
+  <div class="close">
+    <p>Bring me the process that still runs by hand.</p>
+    <a href="mailto:ilhamsaputraferdinand@gmail.com">ilhamsaputraferdinand@gmail.com &middot; +62 851-9080-9668</a>
+  </div>
+
+  <div class="tb">
+    <span><span class="k">Drawing</span> <b>Ilham Saputra (Aam)</b></span>
+    <span><span class="k">Full portfolio</span> <b>ilhamsaputra.site</b></span>
+    <span><span class="k">Revision</span> <b>C</b></span>
+    <span><span class="k">Sheet</span> <b>02 of 02</b></span>
+  </div>
+</section>
+
+</body>
+</html>

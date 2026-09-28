@@ -1,0 +1,41 @@
+# https://ilhamsaputra.site/robots.txt
+# Portfolio of Ilham Saputra (Aam). Everything here is meant to be found.
+
+User-agent: *
+Allow: /
+
+# Nothing on this site is private, but these are build and source directories
+# rather than pages. Keeping them out of the index keeps the results clean.
+Disallow: /aam-assets/
+Disallow: /.impeccable/
+
+# AI crawlers are welcome. Being answerable in an AI search result is the point
+# of shipping llms.txt alongside this file.
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://ilhamsaputra.site/sitemap.xml

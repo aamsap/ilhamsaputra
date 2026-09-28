@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1680 820" width="1680" height="820" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+<rect width="1680" height="820" fill="#EEF6F3"/>
+<defs><pattern id="p" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="2" fill="#CFE3DC"/></pattern></defs><rect width="1680" height="820" fill="url(#p)"/><circle cx="1560" cy="120" r="220" fill="#DFF0EA"/><circle cx="90" cy="780" r="160" fill="#E4F2ED"/>
+<text x="60" y="84" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="38" fill="#1E3A34" letter-spacing="0">Clinic<tspan fill="#2E8B74" font-size="26"> · First call to next visit</tspan></text>
+<text x="1620" y="84" font-size="18" fill="#5E7F77" text-anchor="end">assembled from the Excellent Chimp n8n library</text>
+<path d="M60 218 q65.0 -14 130.0 0 t130.0 0 q65.0 -14 130.0 0 t130.0 0 q65.0 -14 130.0 0 t130.0 0 q65.0 -14 130.0 0 t130.0 0 q65.0 -14 130.0 0 t130.0 0 q65.0 -14 130.0 0 t130.0 0" fill="none" stroke="#2E8B74" stroke-width="3" stroke-linecap="round" stroke-dasharray="0.1 12"/>
+<circle cx="190.0" cy="160" r="34" fill="#D6ECE5"/>
+<path d="M-11 -15 l6 0 l3 8 l-4 3 q3 7 10 10 l3 -4 l8 3 l0 6 q-1 4 -5 4 q-24 -3 -26 -26 q0 -4 5 -4z" transform="translate(190.0 160)" fill="none" stroke="#2E8B74" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="190.0" cy="218" r="7" fill="#2E8B74"/>
+<text x="190.0" y="256" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="19" fill="#1E3A34" text-anchor="middle" letter-spacing="0">1. Call missed</text>
+<rect x="79.0" y="286" width="222" height="108" rx="18" fill="#FFFFFF" stroke="#8CC3B2" stroke-width="1.6"/>
+<rect x="93.0" y="300" width="58" height="26" rx="13" fill="#D6ECE5"/><text x="122.0" y="319" font-size="16" font-weight="700" fill="#2E8B74" text-anchor="middle">WF 01</text>
+<text x="287.0" y="319" font-size="14" fill="#5E7F77" text-anchor="end">14 nodes</text>
+<text x="95.0" y="350" font-size="20" fill="#1E3A34">Missed-call text-</text>
+<text x="95.0" y="374" font-size="20" fill="#1E3A34">back</text>
+<circle cx="450.0" cy="160" r="34" fill="#D6ECE5"/>
+<path d="M-16 -13 h32 a4 4 0 0 1 4 4 v14 a4 4 0 0 1 -4 4 h-16 l-9 8 v-8 h-7 a4 4 0 0 1 -4 -4 v-14 a4 4 0 0 1 4 -4z M-9 -2 h0.1 M0 -2 h0.1 M9 -2 h0.1" transform="translate(450.0 160)" fill="none" stroke="#2E8B74" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450.0" cy="218" r="7" fill="#2E8B74"/>
+<text x="450.0" y="256" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="19" fill="#1E3A34" text-anchor="middle" letter-spacing="0">2. Qualify</text>
+<rect x="339.0" y="286" width="222" height="108" rx="18" fill="#FFFFFF" stroke="#8CC3B2" stroke-width="1.6"/>
+<rect x="353.0" y="300" width="58" height="26" rx="13" fill="#D6ECE5"/><text x="382.0" y="319" font-size="16" font-weight="700" fill="#2E8B74" text-anchor="middle">WF 02</text>
+<text x="547.0" y="319" font-size="14" fill="#5E7F77" text-anchor="end">43 nodes</text>
+<text x="355.0" y="350" font-size="20" fill="#1E3A34">AI appointment</text>
+<text x="355.0" y="374" font-size="20" fill="#1E3A34">setter</text>
+<line x1="450.0" y1="394" x2="450.0" y2="416" stroke="#5E7F77" stroke-width="2" stroke-dasharray="4 4"/>
+<rect x="339.0" y="416" width="222" height="108" rx="18" fill="#FFFFFF" stroke="#8CC3B2" stroke-width="1.6"/>
+<rect x="353.0" y="430" width="58" height="26" rx="13" fill="#D6ECE5"/><text x="382.0" y="449" font-size="16" font-weight="700" fill="#2E8B74" text-anchor="middle">WF 50</text>
+<text x="547.0" y="449" font-size="14" fill="#5E7F77" text-anchor="end">23 nodes</text>
+<text x="355.0" y="480" font-size="20" fill="#1E3A34">Handoff watchdog</text>
+<line x1="450.0" y1="524" x2="450.0" y2="550" stroke="#D0685F" stroke-width="2"/>
+<circle cx="450.0" cy="562" r="12" fill="#D0685F"/><circle cx="450.0" cy="558" r="4" fill="#FFF"/><path d="M443.0 570 a7 6 0 0 1 14 0" fill="#FFF"/><text x="450.0" y="598" font-size="16" fill="#D0685F" text-anchor="middle" font-weight="600">a person: hand-off</text>
+<circle cx="710.0" cy="160" r="34" fill="#D6ECE5"/>
+<path d="M-12 -12 h-3 v29 h30 v-29 h-3 M-7 -16 h14 v6 h-14z M-8 -1 h16 M-8 6 h16 M-8 12 h9" transform="translate(710.0 160)" fill="none" stroke="#2E8B74" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="710.0" cy="218" r="7" fill="#2E8B74"/>
+<text x="710.0" y="256" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="19" fill="#1E3A34" text-anchor="middle" letter-spacing="0">3. Register</text>
+<rect x="599.0" y="286" width="222" height="108" rx="18" fill="#FFFFFF" stroke="#8CC3B2" stroke-width="1.6"/>
+<rect x="613.0" y="300" width="58" height="26" rx="13" fill="#D6ECE5"/><text x="642.0" y="319" font-size="16" font-weight="700" fill="#2E8B74" text-anchor="middle">WF 09</text>
+<text x="807.0" y="319" font-size="14" fill="#5E7F77" text-anchor="end">12 nodes</text>
+<text x="615.0" y="350" font-size="20" fill="#1E3A34">Intake form</text>
+<line x1="710.0" y1="394" x2="710.0" y2="420" stroke="#D0685F" stroke-width="2"/>
+<circle cx="710.0" cy="432" r="12" fill="#D0685F"/><circle cx="710.0" cy="428" r="4" fill="#FFF"/><path d="M703.0 440 a7 6 0 0 1 14 0" fill="#FFF"/><text x="710.0" y="468" font-size="16" fill="#D0685F" text-anchor="middle" font-weight="600">a person: review queue</text>
+<circle cx="970.0" cy="160" r="34" fill="#D6ECE5"/>
+<path d="M-13 9 h26 l-4 -5 v-8 a9 9 0 0 0 -18 0 v8z M-4 13 a4 4 0 0 0 8 0 M0 -13 v-3" transform="translate(970.0 160)" fill="none" stroke="#2E8B74" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="970.0" cy="218" r="7" fill="#2E8B74"/>
+<text x="970.0" y="256" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="19" fill="#1E3A34" text-anchor="middle" letter-spacing="0">4. Remind</text>
+<rect x="859.0" y="286" width="222" height="108" rx="18" fill="#FFFFFF" stroke="#8CC3B2" stroke-width="1.6"/>
+<rect x="873.0" y="300" width="58" height="26" rx="13" fill="#D6ECE5"/><text x="902.0" y="319" font-size="16" font-weight="700" fill="#2E8B74" text-anchor="middle">WF 04</text>
+<text x="1067.0" y="319" font-size="14" fill="#5E7F77" text-anchor="end">19 nodes</text>
+<text x="875.0" y="350" font-size="20" fill="#1E3A34">Reminder + confirm</text>
+<line x1="970.0" y1="394" x2="970.0" y2="420" stroke="#D0685F" stroke-width="2"/>
+<circle cx="970.0" cy="432" r="12" fill="#D0685F"/><circle cx="970.0" cy="428" r="4" fill="#FFF"/><path d="M963.0 440 a7 6 0 0 1 14 0" fill="#FFF"/><text x="970.0" y="468" font-size="16" fill="#D0685F" text-anchor="middle" font-weight="600">a person: call list</text>
+<circle cx="1230.0" cy="160" r="34" fill="#D6ECE5"/>
+<path d="M-16 -12 h32 v28 h-32z M-16 -4 h32 M-9 -17 v8 M9 -17 v8 M-8 4 h4 M2 4 h4 M-8 10 h4" transform="translate(1230.0 160)" fill="none" stroke="#2E8B74" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1230.0" cy="218" r="7" fill="#2E8B74"/>
+<text x="1230.0" y="256" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="19" fill="#1E3A34" text-anchor="middle" letter-spacing="0">5. Refill slot</text>
+<rect x="1119.0" y="286" width="222" height="108" rx="18" fill="#FFFFFF" stroke="#8CC3B2" stroke-width="1.6"/>
+<rect x="1133.0" y="300" width="58" height="26" rx="13" fill="#D6ECE5"/><text x="1162.0" y="319" font-size="16" font-weight="700" fill="#2E8B74" text-anchor="middle">WF 54</text>
+<text x="1327.0" y="319" font-size="14" fill="#5E7F77" text-anchor="end">36 nodes</text>
+<text x="1135.0" y="350" font-size="20" fill="#1E3A34">Waitlist backfill</text>
+<circle cx="1490.0" cy="160" r="34" fill="#D6ECE5"/>
+<path d="M13 -2 a13 13 0 1 0 -3 10 M14 -13 v11 h-11" transform="translate(1490.0 160)" fill="none" stroke="#2E8B74" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1490.0" cy="218" r="7" fill="#2E8B74"/>
+<text x="1490.0" y="256" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="19" fill="#1E3A34" text-anchor="middle" letter-spacing="0">6. Return</text>
+<rect x="1379.0" y="286" width="222" height="108" rx="18" fill="#FFFFFF" stroke="#8CC3B2" stroke-width="1.6"/>
+<rect x="1393.0" y="300" width="58" height="26" rx="13" fill="#D6ECE5"/><text x="1422.0" y="319" font-size="16" font-weight="700" fill="#2E8B74" text-anchor="middle">WF 08</text>
+<text x="1587.0" y="319" font-size="14" fill="#5E7F77" text-anchor="end">8 nodes</text>
+<text x="1395.0" y="350" font-size="20" fill="#1E3A34">Rebooking by cycle</text>
+<rect x="60" y="644" width="1560" height="112" rx="22" fill="#DCEEE8" stroke="#8CC3B2" stroke-width="2"/>
+<text x="82" y="678" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="17" fill="#1E3A34" letter-spacing="0">Shared library · every workflow above sends, schedules and logs through it</text>
+<text x="82.0" y="714" font-size="17" fill="#1E3A34">LIB-01 Resolve contact</text>
+<text x="461.0" y="714" font-size="17" fill="#1E3A34">LIB-02 Send message</text>
+<text x="840.0" y="714" font-size="17" fill="#1E3A34">LIB-03 Consent gate</text>
+<text x="1219.0" y="714" font-size="17" fill="#1E3A34">LIB-04/05 Scheduler</text>
+<text x="82.0" y="742" font-size="17" fill="#1E3A34">LIB-07 Approval</text>
+<text x="461.0" y="742" font-size="17" fill="#1E3A34">LIB-08 Audit log</text>
+<text x="840.0" y="742" font-size="17" fill="#1E3A34">EC 00 Error handler</text>
+<text x="1620" y="782" font-size="15" fill="#5E7F77" text-anchor="end">7 catalog workflows · marked stages are where a person decides</text>
+</svg>

@@ -1,0 +1,275 @@
+- generic [active] [ref=f6e1]:
+  - generic [ref=f6e2]:
+    - banner [ref=f6e3]:
+      - generic [ref=f6e4]:
+        - link "Rana by Febriana Rana" [ref=f6e5] [cursor=pointer]:
+          - /url: /
+          - img "Rana by Febriana" [ref=f6e6]
+          - generic [ref=f6e7]: Rana
+        - navigation [ref=f6e8]:
+          - link "商品一覧" [ref=f6e9] [cursor=pointer]:
+            - /url: /#shop
+          - link "Ranaについて" [ref=f6e10] [cursor=pointer]:
+            - /url: /#about
+          - link "お手入れ" [ref=f6e11] [cursor=pointer]:
+            - /url: /#care
+          - link "お問い合わせ" [ref=f6e12] [cursor=pointer]:
+            - /url: /#contact
+        - generic [ref=f6e13]:
+          - group "Language and currency" [ref=f6e14]:
+            - button "日本語 ¥" [pressed] [ref=f6e15]
+            - button "EN $" [ref=f6e16]
+          - button "カート" [ref=f6e17]
+          - link "ログイン" [ref=f6e21] [cursor=pointer]:
+            - /url: /login
+    - main [ref=f6e25]:
+      - generic [ref=f6e26]:
+        - img "三段フリルトート" [ref=f6e27]
+        - generic [ref=f6e30]:
+          - generic [ref=f6e31]:
+            - paragraph [ref=f6e32]: made with love ・ handmade crochet
+            - heading "一目ずつ手で編む、 やさしい暮らしの小物" [level=1] [ref=f6e33]
+            - generic [ref=f6e34]:
+              - paragraph [ref=f6e35]: 商品一覧
+              - paragraph [ref=f6e36]: 三段フリルトート
+          - generic [ref=f6e37]:
+            - paragraph [ref=f6e38]: Rana by Febriana は、天然素材の糸だけを使った少量生産のクロシェブランドです。すべての作品を手編みでお作りしています。
+            - generic [ref=f6e39]:
+              - link "商品を見る" [ref=f6e40] [cursor=pointer]:
+                - /url: "#shop"
+              - link "ブランドについて" [ref=f6e41] [cursor=pointer]:
+                - /url: "#about"
+      - generic [ref=f6e43]:
+        - generic [ref=f6e44]: 100% 手編み
+        - generic [ref=f6e45]: 天然素材の糸
+        - generic [ref=f6e46]: 日本国内・海外発送
+      - generic [ref=f6e47]:
+        - generic [ref=f6e48]:
+          - heading "カテゴリーから探す" [level=2] [ref=f6e49]
+          - generic [ref=f6e50]:
+            - button "レースプルオーバー ローズ ウェア 商品を見る" [ref=f6e51]:
+              - img "レースプルオーバー ローズ" [ref=f6e52]
+              - generic [ref=f6e54]:
+                - generic [ref=f6e55]: ウェア
+                - generic [ref=f6e56]: 商品を見る
+            - button "グラニーショルダーポーチ バッグ 商品を見る" [ref=f6e57]:
+              - img "グラニーショルダーポーチ" [ref=f6e58]
+              - generic [ref=f6e60]:
+                - generic [ref=f6e61]: バッグ
+                - generic [ref=f6e62]: 商品を見る
+            - button "タンブラーカバー ミント ドリンク小物 商品を見る" [ref=f6e63]:
+              - img "タンブラーカバー ミント" [ref=f6e64]
+              - generic [ref=f6e66]:
+                - generic [ref=f6e67]: ドリンク小物
+                - generic [ref=f6e68]: 商品を見る
+        - generic [ref=f6e69]:
+          - generic [ref=f6e70]:
+            - heading "商品一覧" [level=2] [ref=f6e71]
+            - paragraph [ref=f6e72]: 在庫は手編みのペースに合わせた少量です。売り切れの場合はご予約を承ります。
+          - generic [ref=f6e73]:
+            - button "すべて" [ref=f6e74]
+            - button "ウェア" [ref=f6e75]
+            - button "バッグ" [ref=f6e76]
+            - button "ドリンク小物" [ref=f6e77]
+        - generic [ref=f6e78]:
+          - textbox "商品を検索" [ref=f6e80]
+          - combobox [ref=f6e81]:
+            - option "新着順" [selected]
+            - option "価格が安い順"
+            - option "価格が高い順"
+        - generic [ref=f6e82]:
+          - article [ref=f6e83]:
+            - generic [ref=f6e84]:
+              - link [ref=f6e85] [cursor=pointer]:
+                - /url: /products/tumbler-cozy
+                - img "タンブラーカバー ミント" [ref=f6e86]
+              - button "カートに入れる" [ref=f6e87]
+            - link "タンブラーカバー ミント オーガニックコットン100%。手にやさしく馴染む厚手の編み地。 ￥3,800" [ref=f6e88] [cursor=pointer]:
+              - /url: /products/tumbler-cozy
+              - generic [ref=f6e89]:
+                - generic [ref=f6e90]:
+                  - heading "タンブラーカバー ミント" [level=3] [ref=f6e91]
+                  - paragraph [ref=f6e92]: オーガニックコットン100%。手にやさしく馴染む厚手の編み地。
+                - generic [ref=f6e93]: ￥3,800
+          - article [ref=f6e94]:
+            - generic [ref=f6e95]:
+              - link [ref=f6e96] [cursor=pointer]:
+                - /url: /products/heart-cozy
+                - img "ハートカップカバー" [ref=f6e97]
+              - button "カートに入れる" [ref=f6e98]
+            - link "ハートカップカバー ピンクのハートモチーフ付き。ボーダー編みのやわらかい一枚。 ￥3,200" [ref=f6e99] [cursor=pointer]:
+              - /url: /products/heart-cozy
+              - generic [ref=f6e100]:
+                - generic [ref=f6e101]:
+                  - heading "ハートカップカバー" [level=3] [ref=f6e102]
+                  - paragraph [ref=f6e103]: ピンクのハートモチーフ付き。ボーダー編みのやわらかい一枚。
+                - generic [ref=f6e104]: ￥3,200
+          - article [ref=f6e105]:
+            - generic [ref=f6e106]:
+              - link [ref=f6e107] [cursor=pointer]:
+                - /url: /products/bottle-sling
+                - img "ボトルホルダー スカイ" [ref=f6e108]
+              - button "カートに入れる" [ref=f6e109]
+            - link "ボトルホルダー スカイ 肩掛けストラップ付き。メッシュ編みで軽やか。 ￥4,200" [ref=f6e110] [cursor=pointer]:
+              - /url: /products/bottle-sling
+              - generic [ref=f6e111]:
+                - generic [ref=f6e112]:
+                  - heading "ボトルホルダー スカイ" [level=3] [ref=f6e113]
+                  - paragraph [ref=f6e114]: 肩掛けストラップ付き。メッシュ編みで軽やか。
+                - generic [ref=f6e115]: ￥4,200
+          - article [ref=f6e116]:
+            - generic [ref=f6e117]:
+              - link [ref=f6e118] [cursor=pointer]:
+                - /url: /products/granny-pouch
+                - img "グラニーショルダーポーチ" [ref=f6e119]
+              - button "カートに入れる" [ref=f6e120]
+            - link "グラニーショルダーポーチ 桜色とホワイトのグラニースクエア。内布付き。 ￥5,600" [ref=f6e121] [cursor=pointer]:
+              - /url: /products/granny-pouch
+              - generic [ref=f6e122]:
+                - generic [ref=f6e123]:
+                  - heading "グラニーショルダーポーチ" [level=3] [ref=f6e124]
+                  - paragraph [ref=f6e125]: 桜色とホワイトのグラニースクエア。内布付き。
+                - generic [ref=f6e126]: ￥5,600
+          - article [ref=f6e127]:
+            - generic [ref=f6e128]:
+              - link [ref=f6e129] [cursor=pointer]:
+                - /url: /products/ruffle-crossbody
+                - img "フリルクロスボディ" [ref=f6e130]
+              - button "カートに入れる" [ref=f6e131]
+            - link "フリルクロスボディ 生成りのネット編みに、モーヴのフリルを重ねて。 ￥6,200" [ref=f6e132] [cursor=pointer]:
+              - /url: /products/ruffle-crossbody
+              - generic [ref=f6e133]:
+                - generic [ref=f6e134]:
+                  - heading "フリルクロスボディ" [level=3] [ref=f6e135]
+                  - paragraph [ref=f6e136]: 生成りのネット編みに、モーヴのフリルを重ねて。
+                - generic [ref=f6e137]: ￥6,200
+          - article [ref=f6e138]:
+            - generic [ref=f6e139]:
+              - link [ref=f6e140] [cursor=pointer]:
+                - /url: /products/ruffle-tote
+                - img "三段フリルトート" [ref=f6e141]
+              - button "カートに入れる" [ref=f6e142]
+            - link "三段フリルトート リボン付きの主役バッグ。ふっくら三段のフリル。 ￥9,800" [ref=f6e143] [cursor=pointer]:
+              - /url: /products/ruffle-tote
+              - generic [ref=f6e144]:
+                - generic [ref=f6e145]:
+                  - heading "三段フリルトート" [level=3] [ref=f6e146]
+                  - paragraph [ref=f6e147]: リボン付きの主役バッグ。ふっくら三段のフリル。
+                - generic [ref=f6e148]: ￥9,800
+          - article [ref=f6e149]:
+            - generic [ref=f6e150]:
+              - link [ref=f6e151] [cursor=pointer]:
+                - /url: /products/lace-pullover
+                - img "レースプルオーバー ローズ" [ref=f6e152]
+              - button "カートに入れる" [ref=f6e153]
+            - link "レースプルオーバー ローズ 透かし編みのクロップド丈。春先の羽織りに。 ￥12,800" [ref=f6e154] [cursor=pointer]:
+              - /url: /products/lace-pullover
+              - generic [ref=f6e155]:
+                - generic [ref=f6e156]:
+                  - heading "レースプルオーバー ローズ" [level=3] [ref=f6e157]
+                  - paragraph [ref=f6e158]: 透かし編みのクロップド丈。春先の羽織りに。
+                - generic [ref=f6e159]: ￥12,800
+          - article [ref=f6e160]:
+            - generic [ref=f6e161]:
+              - link [ref=f6e162] [cursor=pointer]:
+                - /url: /products/daisy-vest
+                - img "デイジーリボンベスト" [ref=f6e163]
+              - button "カートに入れる" [ref=f6e164]
+            - link "デイジーリボンベスト 小花のトリムと編みひもの前結び。 ￥11,500" [ref=f6e165] [cursor=pointer]:
+              - /url: /products/daisy-vest
+              - generic [ref=f6e166]:
+                - generic [ref=f6e167]:
+                  - heading "デイジーリボンベスト" [level=3] [ref=f6e168]
+                  - paragraph [ref=f6e169]: 小花のトリムと編みひもの前結び。
+                - generic [ref=f6e170]: ￥11,500
+          - article [ref=f6e171]:
+            - generic [ref=f6e172]:
+              - link "フリルペプラムベスト ノワール 完売" [ref=f6e173] [cursor=pointer]:
+                - /url: /products/frill-peplum
+                - img "フリルペプラムベスト ノワール" [ref=f6e174]
+                - generic [ref=f6e175]: 完売
+              - button "完売" [disabled] [ref=f6e176]
+            - link "フリルペプラムベスト ノワール 白の縁編みが効いた二段ペプラム。一点物。 ￥13,200" [ref=f6e177] [cursor=pointer]:
+              - /url: /products/frill-peplum
+              - generic [ref=f6e178]:
+                - generic [ref=f6e179]:
+                  - heading "フリルペプラムベスト ノワール" [level=3] [ref=f6e180]
+                  - paragraph [ref=f6e181]: 白の縁編みが効いた二段ペプラム。一点物。
+                - generic [ref=f6e182]: ￥13,200
+      - generic [ref=f6e184]:
+        - generic [ref=f6e185]:
+          - img "デイジーリボンベスト" [ref=f6e186]
+          - paragraph [ref=f6e188]: 100% 手編み
+        - generic [ref=f6e189]:
+          - generic [ref=f6e190]:
+            - heading "小さな工房から" [level=2] [ref=f6e191]
+            - paragraph [ref=f6e192]: Ranaはインドネシア生まれ、東京在住の作家 Febriana のブランドです。糸はオーガニックコットンとリネンを中心に選び、染料も肌にやさしいものだけを使っています。
+            - paragraph [ref=f6e193]: ひとつの作品におよそ6〜20時間。編み目のわずかな揺らぎは、手仕事の証としてそのままお届けします。
+          - generic [ref=f6e194]:
+            - img "グラニーショルダーポーチ" [ref=f6e195]
+            - paragraph [ref=f6e196]: Febriana
+      - generic [ref=f6e200]:
+        - generic [ref=f6e201]:
+          - heading "お手入れについて" [level=2] [ref=f6e202]
+          - paragraph [ref=f6e203]: 天然素材の糸
+        - generic [ref=f6e204]:
+          - generic [ref=f6e205]:
+            - text: "01"
+            - heading "30℃以下の水で手洗い" [level=3] [ref=f6e206]
+            - paragraph [ref=f6e207]: 中性洗剤をお使いください。
+          - generic [ref=f6e208]:
+            - text: "02"
+            - heading "絞らず平干し" [level=3] [ref=f6e209]
+            - paragraph [ref=f6e210]: 形を整えて陰干ししてください。
+          - generic [ref=f6e211]:
+            - text: "03"
+            - heading "アイロンは低温" [level=3] [ref=f6e212]
+            - paragraph [ref=f6e213]: 当て布をしてください。
+      - generic [ref=f6e215]:
+        - generic [ref=f6e216]:
+          - heading "お問い合わせ・ご注文" [level=2] [ref=f6e217]
+          - paragraph [ref=f6e218]: オーダーメイド、色違い、卸のご相談はお気軽にどうぞ。3営業日以内にご返信します。
+        - generic [ref=f6e219]:
+          - link "hello@rana-crochet.jp" [ref=f6e220] [cursor=pointer]:
+            - /url: mailto:hello@rana-crochet.jp
+          - link "@rana.crochet" [ref=f6e224] [cursor=pointer]:
+            - /url: https://www.instagram.com/rana.crochet/
+    - contentinfo [ref=f6e228]:
+      - generic [ref=f6e229]:
+        - generic [ref=f6e230]:
+          - generic [ref=f6e231]:
+            - link "Rana" [ref=f6e232] [cursor=pointer]:
+              - /url: /
+            - paragraph [ref=f6e234]: Rana by Febriana ・ 手編みクロシェ
+          - navigation [ref=f6e235]:
+            - link "商品一覧" [ref=f6e236] [cursor=pointer]:
+              - /url: /#shop
+            - link "Ranaについて" [ref=f6e237] [cursor=pointer]:
+              - /url: /#about
+            - link "お手入れ" [ref=f6e238] [cursor=pointer]:
+              - /url: /#care
+            - link "お問い合わせ" [ref=f6e239] [cursor=pointer]:
+              - /url: /#contact
+            - link "カート" [ref=f6e240] [cursor=pointer]:
+              - /url: /cart
+            - link "ログイン" [ref=f6e241] [cursor=pointer]:
+              - /url: /login
+        - generic [ref=f6e242]:
+          - generic [ref=f6e243]: 100% 手編み
+          - generic [ref=f6e244]: 天然素材の糸
+          - generic [ref=f6e245]: © 2026 Rana. 無断転載を禁じます。
+  - generic [aria-hidden]:
+    - button
+    - complementary:
+      - generic:
+        - heading [level=2]: カート
+        - button
+      - generic:
+        - paragraph: カートは空です。
+      - generic:
+        - generic:
+          - generic: 合計
+          - generic: ￥0
+        - link [disabled]:
+          - /url: /checkout
+          - text: ご購入手続きへ

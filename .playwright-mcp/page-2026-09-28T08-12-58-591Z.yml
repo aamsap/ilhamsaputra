@@ -1,0 +1,326 @@
+- generic [ref=f7e2]:
+  - banner [ref=f7e3]:
+    - generic [ref=f7e4]:
+      - link "Magdalena" [ref=f7e5] [cursor=pointer]:
+        - /url: /
+      - navigation "Navigasi utama" [ref=f7e10]:
+        - link "Cerita" [ref=f7e11] [cursor=pointer]:
+          - /url: /tentang
+        - link "Kopi" [ref=f7e12] [cursor=pointer]:
+          - /url: /menu
+        - link "Kontak" [ref=f7e13] [cursor=pointer]:
+          - /url: /kontak
+      - link "Order Now" [ref=f7e15] [cursor=pointer]:
+        - /url: https://wa.me/6281234567890?text=Halo%20Magdalena%20Coffee%2C%20saya%20mau%20order%20kopi.
+  - main [ref=f7e19]:
+    - region [ref=f7e20]:
+      - generic [ref=f7e21]:
+        - generic [ref=f7e22]:
+          - generic [ref=f7e23]:
+            - heading [level=1] [ref=f7e24]:
+              - generic "EXPRESSO" [ref=f7e26]:
+                - generic [ref=f7e28]: E
+                - generic [ref=f7e30]: X
+                - generic [ref=f7e32]: P
+                - generic [ref=f7e34]: R
+                - generic [ref=f7e36]: E
+                - generic [ref=f7e38]: S
+                - generic [ref=f7e40]: S
+                - generic [ref=f7e42]: O
+              - generic "YOURSELF" [ref=f7e44]:
+                - generic [ref=f7e46]: "Y"
+                - generic [ref=f7e48]: O
+                - generic [ref=f7e50]: U
+                - generic [ref=f7e52]: R
+                - generic [ref=f7e54]: S
+                - generic [ref=f7e56]: E
+                - generic [ref=f7e58]: L
+                - generic [ref=f7e60]: F
+            - generic [aria-hidden]:
+              - img [aria-hidden]:
+                - generic: PREMIUM · SMALL BATCH · ARABICA · SLOW ·
+                - generic: Coffee
+          - generic [ref=f7e61]:
+            - img "Segelas kopi susu Magdalena berlapis karamel" [ref=f7e62]
+            - generic:
+              - paragraph [ref=f7e64]: Kopi murni, komunitas yang hangat, pengalaman yang utuh — karena tidak pernah ada kata terlalu banyak kopi dalam hidupmu.
+              - generic [ref=f7e68]:
+                - link [ref=f7e69] [cursor=pointer]:
+                  - /url: /menu
+                  - img "Segelas kopi susu Magdalena dengan es" [ref=f7e70]
+                - link [ref=f7e71] [cursor=pointer]:
+                  - /url: /menu
+                  - img "Cappuccino dengan taburan cokelat" [ref=f7e72]
+                - link [ref=f7e73] [cursor=pointer]:
+                  - /url: /menu
+                  - img "Caramel latte berlapis dengan saus karamel" [ref=f7e74]
+        - generic "Menu unggulan Magdalena Coffee" [ref=f7e76]:
+          - generic [ref=f7e78]:
+            - generic [ref=f7e79]:
+              - generic [ref=f7e80]: Cappuccino
+              - generic [ref=f7e86]: Doppio
+              - generic [ref=f7e92]: Kopi Susu
+              - generic [ref=f7e98]: Mocha
+              - generic [ref=f7e104]: Latte
+              - generic [ref=f7e110]: Cold Brew
+              - generic [ref=f7e116]: Americano
+              - generic [ref=f7e122]: V60 Gayo
+              - generic [ref=f7e128]: Affogato
+              - generic [ref=f7e134]: Flat White
+            - generic [aria-hidden] [ref=f7e140]:
+              - generic [ref=f7e141]: Cappuccino
+              - generic [ref=f7e147]: Doppio
+              - generic [ref=f7e153]: Kopi Susu
+              - generic [ref=f7e159]: Mocha
+              - generic [ref=f7e165]: Latte
+              - generic [ref=f7e171]: Cold Brew
+              - generic [ref=f7e177]: Americano
+              - generic [ref=f7e183]: V60 Gayo
+              - generic [ref=f7e189]: Affogato
+              - generic [ref=f7e195]: Flat White
+          - generic [ref=f7e203]:
+            - generic [ref=f7e204]:
+              - generic [ref=f7e205]: Flat White
+              - generic [ref=f7e211]: Affogato
+              - generic [ref=f7e217]: V60 Gayo
+              - generic [ref=f7e223]: Americano
+              - generic [ref=f7e229]: Cold Brew
+              - generic [ref=f7e235]: Latte
+              - generic [ref=f7e241]: Mocha
+              - generic [ref=f7e247]: Kopi Susu
+              - generic [ref=f7e253]: Doppio
+              - generic [ref=f7e259]: Cappuccino
+            - generic [aria-hidden] [ref=f7e265]:
+              - generic [ref=f7e266]: Flat White
+              - generic [ref=f7e272]: Affogato
+              - generic [ref=f7e278]: V60 Gayo
+              - generic [ref=f7e284]: Americano
+              - generic [ref=f7e290]: Cold Brew
+              - generic [ref=f7e296]: Latte
+              - generic [ref=f7e302]: Mocha
+              - generic [ref=f7e308]: Kopi Susu
+              - generic [ref=f7e314]: Doppio
+              - generic [ref=f7e320]: Cappuccino
+        - generic [ref=f7e326]:
+          - generic [ref=f7e327]:
+            - img "Segel Magdalena Coffee, roasted in Jakarta sejak 2018" [ref=f7e328]:
+              - generic [ref=f7e331]: MAGDALENA COFFEE · ROASTED IN JAKARTA · SINCE 2018 ·
+            - generic [ref=f7e334]:
+              - paragraph [ref=f7e335]: Est. 2018
+              - paragraph [ref=f7e336]: Roastery batch kecil di Kebayoran Baru, Jakarta Selatan.
+          - paragraph [ref=f7e337]: Mampir dan lihat sendiri biji kopi kami — dibeli langsung dari petani mitra di Gayo dan Kintamani, dipanggang maksimal 5 kg per batch.
+    - region [ref=f7e338]:
+      - generic [ref=f7e339]:
+        - generic [ref=f7e340]:
+          - paragraph [ref=f7e341]: Selalu ada ruang untuk secangkir kopi. Ini bukan sekadar kopi — ini pengalaman, dan hidup terasa lebih baik dengannya.
+          - heading "Our Coffee" [level=2] [ref=f7e343]
+        - generic [ref=f7e346]:
+          - figure "Kopi Susu Magdalena 26K" [ref=f7e347]:
+            - generic [ref=f7e348]:
+              - generic [ref=f7e349]: Kopi Susu Magdalena
+              - generic [ref=f7e350]: 26K
+            - link "Kopi Susu Magdalena — lihat di katalog menu" [ref=f7e351] [cursor=pointer]:
+              - /url: /menu
+              - img "Kopi susu gula aren dituang di atas es" [ref=f7e352]
+              - generic [aria-hidden]:
+                - generic: Order 26K
+          - figure "Cappuccino 28K" [ref=f7e353]:
+            - generic [ref=f7e354]:
+              - generic [ref=f7e355]: Cappuccino
+              - generic [ref=f7e356]: 28K
+            - link "Cappuccino — lihat di katalog menu" [ref=f7e357] [cursor=pointer]:
+              - /url: /menu
+              - img "Cappuccino dengan microfoam tebal dan taburan cokelat" [ref=f7e358]
+              - generic [aria-hidden]:
+                - generic: Order 28K
+          - figure "Caramel Latte 32K" [ref=f7e359]:
+            - generic [ref=f7e360]:
+              - generic [ref=f7e361]: Caramel Latte
+              - generic [ref=f7e362]: 32K
+            - link "Caramel Latte — lihat di katalog menu" [ref=f7e363] [cursor=pointer]:
+              - /url: /menu
+              - img "Caramel latte berlapis dengan saus karamel buatan sendiri" [ref=f7e364]
+              - generic [aria-hidden]:
+                - generic: Order 32K
+          - figure "Espresso 18K" [ref=f7e365]:
+            - generic [ref=f7e366]:
+              - generic [ref=f7e367]: Espresso
+              - generic [ref=f7e368]: 18K
+            - link "Espresso — lihat di katalog menu" [ref=f7e369] [cursor=pointer]:
+              - /url: /menu
+              - img "Double shot espresso dilihat dari atas" [ref=f7e370]
+              - generic [aria-hidden]:
+                - generic: Order 18K
+          - figure "V60 Gayo Natural 30K" [ref=f7e371]:
+            - generic [ref=f7e372]:
+              - generic [ref=f7e373]: V60 Gayo Natural
+              - generic [ref=f7e374]: 30K
+            - link "V60 Gayo Natural — lihat di katalog menu" [ref=f7e375] [cursor=pointer]:
+              - /url: /menu
+              - img "Air panas dituang ke dripper V60 berisi kopi Gayo" [ref=f7e376]
+              - generic [aria-hidden]:
+                - generic: Order 30K
+          - figure "Americano 22K" [ref=f7e377]:
+            - generic [ref=f7e378]:
+              - generic [ref=f7e379]: Americano
+              - generic [ref=f7e380]: 22K
+            - link "Americano — lihat di katalog menu" [ref=f7e381] [cursor=pointer]:
+              - /url: /menu
+              - img "Espresso dituang, memercik ke dalam gelas" [ref=f7e382]
+              - generic [aria-hidden]:
+                - generic: Order 22K
+          - figure "House Blend 200g 85K" [ref=f7e383]:
+            - generic [ref=f7e384]:
+              - generic [ref=f7e385]: House Blend 200g
+              - generic [ref=f7e386]: 85K
+            - link "House Blend 200g — lihat di katalog menu" [ref=f7e387] [cursor=pointer]:
+              - /url: /menu
+              - img "Biji kopi house blend hasil roasting" [ref=f7e388]
+              - generic [aria-hidden]:
+                - generic: Order 85K
+          - figure "Chocolate Magdalena 28K" [ref=f7e389]:
+            - generic [ref=f7e390]:
+              - generic [ref=f7e391]: Chocolate Magdalena
+              - generic [ref=f7e392]: 28K
+            - link "Chocolate Magdalena — lihat di katalog menu" [ref=f7e393] [cursor=pointer]:
+              - /url: /menu
+              - img "Cokelat panas dengan latte art di atas meja kayu" [ref=f7e394]
+              - generic [aria-hidden]:
+                - generic: Order 28K
+          - figure "Cold Brew 12 Jam 30K" [ref=f7e395]:
+            - generic [ref=f7e396]:
+              - generic [ref=f7e397]: Cold Brew 12 Jam
+              - generic [ref=f7e398]: 30K
+            - link "Cold Brew 12 Jam — lihat di katalog menu" [ref=f7e399] [cursor=pointer]:
+              - /url: /menu
+              - img "Cold brew pekat di atas es batu" [ref=f7e400]
+              - generic [aria-hidden]:
+                - generic: Order 30K
+        - generic [ref=f7e401]:
+          - link "Katalog lengkap" [ref=f7e402] [cursor=pointer]:
+            - /url: /menu
+          - link "Order lewat WhatsApp" [ref=f7e403] [cursor=pointer]:
+            - /url: https://wa.me/6281234567890?text=Halo%20Magdalena%20Coffee%2C%20saya%20mau%20order%20kopi.
+    - region [ref=f7e407]:
+      - heading "Kami memanggang arabika premium dan menggilingnya segar tiap pagi demi rasa yang pekat, bulat, dan jujur" [level=2] [ref=f7e409]:
+        - generic [ref=f7e410]: Kami memanggang
+        - generic [ref=f7e412]: arabika premium
+        - generic [ref=f7e414]: dan menggilingnya
+        - generic [ref=f7e416]: segar tiap pagi
+        - generic [ref=f7e418]: demi rasa
+        - generic [ref=f7e423]: yang pekat, bulat, dan jujur
+    - region [ref=f7e424]:
+      - generic [ref=f7e425]:
+        - generic [ref=f7e426]:
+          - heading "Our Roasting" [level=2] [ref=f7e427]
+          - paragraph [ref=f7e428]: "Empat tingkat sangrai, satu aturan yang sama: maksimal 5 kg per batch dan tanggal roasting selalu ditulis di kantongnya."
+        - generic [ref=f7e429]:
+          - link "Order Light Roast, Kintamani Honey" [ref=f7e431] [cursor=pointer]:
+            - /url: https://wa.me/6281234567890?text=Halo%20Magdalena%20Coffee%2C%20saya%20mau%20order%20Light%20Roast%20%E2%80%94%20Kintamani%20Honey.
+            - generic [ref=f7e432]:
+              - generic [ref=f7e433]: Light Roast
+              - generic: Asam cerah, floral, badan ringan. Paling jujur untuk manual brew.
+            - generic [ref=f7e434]: Kintamani Honey
+          - link "Order Medium Roast, Gayo Natural" [ref=f7e440] [cursor=pointer]:
+            - /url: https://wa.me/6281234567890?text=Halo%20Magdalena%20Coffee%2C%20saya%20mau%20order%20Medium%20Roast%20%E2%80%94%20Gayo%20Natural.
+            - generic [ref=f7e441]:
+              - generic [ref=f7e442]: Medium Roast
+              - generic: Berry dan gula merah, keseimbangan manis-asam yang aman untuk semua alat.
+            - generic [ref=f7e443]: Gayo Natural
+          - link "Order Medium-Dark Roast, House Blend" [ref=f7e449] [cursor=pointer]:
+            - /url: https://wa.me/6281234567890?text=Halo%20Magdalena%20Coffee%2C%20saya%20mau%20order%20Medium-Dark%20Roast%20%E2%80%94%20House%20Blend.
+            - generic [ref=f7e450]:
+              - generic [ref=f7e451]: Medium-Dark Roast
+              - generic [ref=f7e452]: Cokelat, kacang panggang, badan tebal. Profil bar kami sehari-hari.
+            - generic [ref=f7e453]: House Blend
+          - link "Order Dark Roast, Toraja Batch" [ref=f7e459] [cursor=pointer]:
+            - /url: https://wa.me/6281234567890?text=Halo%20Magdalena%20Coffee%2C%20saya%20mau%20order%20Dark%20Roast%20%E2%80%94%20Toraja%20Batch.
+            - generic [ref=f7e460]:
+              - generic [ref=f7e461]: Dark Roast
+              - generic: Karamel gelap dan rempah, dibuat untuk bertahan di balik susu dan es.
+            - generic [ref=f7e462]: Toraja Batch
+    - region [ref=f7e467]:
+      - generic "Order sekarang" [ref=f7e469]:
+        - generic [ref=f7e471]:
+          - generic [ref=f7e472]:
+            - generic [ref=f7e473]: Order Now
+            - generic [ref=f7e479]: Pesan Sekarang
+            - generic [ref=f7e485]: Order Now
+            - generic [ref=f7e491]: Antar Hari Ini
+          - generic [aria-hidden] [ref=f7e497]:
+            - generic [ref=f7e498]: Order Now
+            - generic [ref=f7e504]: Pesan Sekarang
+            - generic [ref=f7e510]: Order Now
+            - generic [ref=f7e516]: Antar Hari Ini
+        - generic [ref=f7e524]:
+          - generic [ref=f7e525]:
+            - generic [ref=f7e526]: Antar Hari Ini
+            - generic [ref=f7e532]: Order Now
+            - generic [ref=f7e538]: Pesan Sekarang
+            - generic [ref=f7e544]: Order Now
+          - generic [aria-hidden] [ref=f7e550]:
+            - generic [ref=f7e551]: Antar Hari Ini
+            - generic [ref=f7e557]: Order Now
+            - generic [ref=f7e563]: Pesan Sekarang
+            - generic [ref=f7e569]: Order Now
+      - generic [ref=f7e575]:
+        - generic [ref=f7e576]:
+          - heading [level=2] [ref=f7e577]:
+            - generic "ORDER" [ref=f7e579]:
+              - generic [ref=f7e581]: O
+              - generic [ref=f7e583]: R
+              - generic [ref=f7e585]: D
+              - generic [ref=f7e587]: E
+              - generic [ref=f7e589]: R
+            - generic "NOW" [ref=f7e591]:
+              - generic [ref=f7e593]: "N"
+              - generic [ref=f7e595]: O
+              - generic [ref=f7e597]: W
+          - generic [aria-hidden]:
+            - img:
+              - generic: MAGDALENA COFFEE · ROASTED IN JAKARTA · SINCE 2018 ·
+        - generic [ref=f7e600]:
+          - paragraph [ref=f7e601]: Chat barista kami, sebutkan pesanan dan jam ambil. Kami siapkan saat kamu tiba — atau kirim lewat kurir instan ke alamatmu.
+          - generic [ref=f7e602]:
+            - link "Order via WhatsApp" [ref=f7e603] [cursor=pointer]:
+              - /url: https://wa.me/6281234567890?text=Halo%20Magdalena%20Coffee%2C%20saya%20mau%20order%20kopi.
+            - link "Kunjungi kedai" [ref=f7e607] [cursor=pointer]:
+              - /url: /kontak
+  - contentinfo [ref=f7e608]:
+    - generic [ref=f7e610]:
+      - generic [ref=f7e611]:
+        - link "Magdalena" [ref=f7e612] [cursor=pointer]:
+          - /url: /
+        - paragraph [ref=f7e617]: Kedai kopi dan roastery batch kecil yang menyeduh biji lokal Indonesia sejak 2018.
+        - img "Segel Magdalena Coffee, roasted in Jakarta sejak 2018" [ref=f7e618]:
+          - generic [ref=f7e621]: MAGDALENA COFFEE · ROASTED IN JAKARTA · SINCE 2018 ·
+      - generic [ref=f7e624]:
+        - paragraph [ref=f7e625]: Jelajahi
+        - list [ref=f7e626]:
+          - listitem [ref=f7e627]:
+            - link "Cerita kami" [ref=f7e628] [cursor=pointer]:
+              - /url: /tentang
+          - listitem [ref=f7e629]:
+            - link "Katalog menu" [ref=f7e630] [cursor=pointer]:
+              - /url: /menu
+          - listitem [ref=f7e631]:
+            - link "Kontak & lokasi" [ref=f7e632] [cursor=pointer]:
+              - /url: /kontak
+      - generic [ref=f7e633]:
+        - paragraph [ref=f7e634]: Kunjungi
+        - paragraph [ref=f7e635]: Jl. Cendana Raya No. 12Kebayoran Baru, Jakarta Selatan 12160Setiap hari 07.00 – 22.00
+      - generic [ref=f7e636]:
+        - paragraph [ref=f7e637]: Pesan & ikuti
+        - list [ref=f7e638]:
+          - listitem [ref=f7e639]:
+            - link "WhatsApp order langsung" [ref=f7e640] [cursor=pointer]:
+              - /url: https://wa.me/6281234567890?text=Halo%20Magdalena%20Coffee%2C%20saya%20mau%20order%20kopi.
+          - listitem [ref=f7e641]:
+            - link "Instagram @magdalena.coffee" [ref=f7e642] [cursor=pointer]:
+              - /url: https://instagram.com
+          - listitem [ref=f7e643]:
+            - link "halo@magdalenacoffee.id" [ref=f7e644] [cursor=pointer]:
+              - /url: mailto:halo@magdalenacoffee.id
+    - generic [ref=f7e646]:
+      - paragraph [ref=f7e647]: © 2026 Magdalena Coffee. Diseduh dengan sabar.
+      - paragraph [ref=f7e648]: Kebayoran Baru · Jakarta Selatan

@@ -1,0 +1,13 @@
+# Build-time review evidence: screenshots captured for the finish review.
+# Regenerate rather than commit.
+.impeccable/review/
+
+# OS / editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Node, if tooling is ever added. The site itself has no build step.
+node_modules/
